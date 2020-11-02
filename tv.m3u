@@ -4,9 +4,9 @@
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF: -1 tvg-id = "Noticias" tvg-name = "RT ESPAÑOL" tvg-logo = "https://graph.facebook.com/ActualidadRT/picture?width=200&height=200" group-title = " TV ", RT ESPAÑOL
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
-#EXTINF: -1 tvg-id = "Noticias" tvg-name = "Canal 26" tvg-logo = "https://scontent.faep6-1.fna.fbcdn.net/v/t1.0-9/120092078_3338917059497597_2937040541193006413_o .jpg? _nc_cat = 107 & ccb = 2 & _nc_sid = 09cbfe & _nc_ohc = _b1xzvPFY6sAX89s0vy & _nc_ht = scontent.faep6-1.fna & oh = 4661ec36b927e9da42fd5aa084968 5b94 "grupo -7B7C = TV
+#EXTINF:-1 tvg-id="Noticias" tvg-name="CANAL 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="TV", CANAL 26
 http://200.115.193.177/live/26hd-720/.m3u8?www.tecnotv.info
-#EXTINF: -1 tvg-id = "Noticias" tvg-name = "IP" tvg-logo = "https://lh3.googleusercontent.com/-rJV-6hUdyZQ/X4uFfHugYtI/AAAAAAAA6eU/HLiqqhf4_s8RjgL6q20sHgKBR8RjgL6KG20SKBR8 -17.jpg "group-title =" TV ", IP
+#EXTINF: -1 tvg-id = "Noticias" tvg-name = "IP" tvg-logo = "http://television.com.ar/wp-content/uploads/2020/10/IP-Informaci%C3%B3nPeriodistica-561x400.jpg "group-title =" TV ", IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-id = "Noticias" tvg-name = "CN 24/7 Neuquén" tvg-logo = "https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIX1AXHG /2020-02-05.png "group-title =" TV ", CN 24/7 Neuquen
 https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8?PlaylistM3UCL
