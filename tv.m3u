@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español" tvg-logo="http://achet.cl/wp-content/uploads/de-dw-espano.jpg" group-title="TV", DW Español
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 tvg-id="Noticias" tvg-name="RT ESPAÑOL" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200" group-title="TV", RT ESPAÑOL
+#EXTINF:-1 tvg-id="Noticias" tvg-name="RT ESPAÑOL" tvg-logo="http://www.m3u.cl/logo/113859_RT.png" group-title="TV", RT ESPAÑOL
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="TV", Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8?www.tecnotv.info
