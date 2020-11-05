@@ -30,7 +30,7 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playl
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 7 Salta" tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png" group-title="TV", Canal 7 Salta
 https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telefe Santa Fe" tvg-logo="https://lh3.googleusercontent.com/-NaGEwiNSY50/XzgfcAbR0EI/AAAAAAAA4W8/vXA_G_taqXEvlVI0EXhLi2Ux7LxUDf4tACK8BGAsYHg/s0/2020-08-15.jpg" group-title="TV", Telefe Santa Fe
-http://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/master.m3u8?PlaylistM3UCL
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1604540110~exp=1604716510~acl=/i/canal13santafe_1@751190/*~hmac=64a6647f76e90c85a573e5bc65704fea4239967affc232fc316e4bf8aa4c2686
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 8 Catamarca" tvg-logo="https://lh3.googleusercontent.com/-RxE2ci4tVP0/X1TKGBbhd0I/AAAAAAAA5T0/da4JldeW2CwvYQEEdnRQ9leR5E7M8PPXQCK8BGAsYHg/s0/2020-09-06.jpg" group-title="TV", Canal 8 Catamarca
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 9 Litoral" tvg-logo="https://lh3.googleusercontent.com/-7MvaAgWvhA8/X1TJS_GOupI/AAAAAAAA5TY/lBVqAaQr-R8rYf0rv1uae91vfzqIm9TeQCK8BGAsYHg/s0/2020-09-06.png" group-title="TV", Canal 9 Litoral
