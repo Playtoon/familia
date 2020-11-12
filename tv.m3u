@@ -21,8 +21,6 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="TV Pública" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TV%20publica.png" group-title="TV", TV Pública
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 2 JUJUY" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-2-Jujuy.png" group-title="TV", CANAL 2 JUJUY
-https://livestream.com/accounts/679322/events/3782013/player?width=1920&height=1080&enableInfoAndActivity=true&defaultDrawer=feed&autoPlay=true&mute=false
 #EXTINF:-1 tvg-id="Variado" tvg-name="EL CUATRO JUJUY" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-4-Jujuy.png" group-title="TV", EL CUATRO JUJUY
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 7 JUJUY" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%207%20Jujuy.png" group-title="TV", CANAL 7 JUJUY
@@ -30,7 +28,7 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playl
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 7 Salta" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%207%20salta.png" group-title="TV", Canal 7 Salta
 https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telefe Santa Fe" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telefe_Santa_Fe.png" group-title="TV", Telefe Santa Fe
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1604540110~exp=1604716510~acl=/i/canal13santafe_1@751190/*~hmac=64a6647f76e90c85a573e5bc65704fea4239967affc232fc316e4bf8aa4c2686
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1605047401~exp=1605223801~acl=/i/canal13santafe_1@751190/*~hmac=34ab1c3d15663df095903bb297085f98dccf01c667e99004f9080ac1b9a95b01
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 8 Catamarca" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-8-Catamarca.png" group-title="TV", Canal 8 Catamarca
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 9 Litoral" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-nueve-litoral.png" group-title="TV", Canal 9 Litoral
@@ -233,6 +231,10 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Soberania" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Soberania.png" group-title="TV", Soberania
 https://tls.cdnz.cl/iflexus/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="102651" tvg-name="Pichilemu TV" tvg-logo="https://lh3.googleusercontent.com/-cLe1X-6sOWM/XqtZ-zhsGYI/AAAAAAAAydY/AFIEb1ZL-HEceewpnqr3m9QxC3_3_KzIwCK8BGAsYHg/s0/2020-04-30.png" group-title="TV", Pichilemu TV
+http://play.streaminghd.cl:80/roberto886/roberto886/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79754" tvg-name="Atacama TV" tvg-logo="https://lh3.googleusercontent.com/-Nu8nCShXmhs/XbC0i2stT9I/AAAAAAAArl0/1sC8Fi5sDqA6o5fNttdPaKtB25tuK4CJQCK8BGAsYHg/s0/2019-10-23.png" group-title="TV", Atacama TV
+https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LOCOMOTION.png" group-title="TV", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
