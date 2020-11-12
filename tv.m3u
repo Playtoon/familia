@@ -13,7 +13,7 @@ https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-id="Noticias" tvg-name="TeleSUR Venezuela" tvg-id="TeleSUR" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TeleSUR-Logo.svg.png" group-title="TV", TeleSUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="RTVE24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RTVE24.png" group-title="TV", RTVE24
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?PlaylistM3UCL
+https://rtvelivestream.akamaized.net/24h_dvr_1850.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="France 24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/France24.png" group-title="TV", France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
@@ -22,7 +22,7 @@ http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="TV Pública" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TV%20publica.png" group-title="TV", TV Pública
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 2 JUJUY" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-2-Jujuy.png" group-title="TV", CANAL 2 JUJUY
-http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?PlaylistM3UCL
+https://livestream.com/accounts/679322/events/3782013/player?width=1920&height=1080&enableInfoAndActivity=true&defaultDrawer=feed&autoPlay=true&mute=false
 #EXTINF:-1 tvg-id="Variado" tvg-name="EL CUATRO JUJUY" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-4-Jujuy.png" group-title="TV", EL CUATRO JUJUY
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 7 JUJUY" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%207%20Jujuy.png" group-title="TV", CANAL 7 JUJUY
@@ -80,7 +80,7 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="13 MAX DIGITAL" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/13%20max.png" group-title="TV", 13 MAX DIGITAL
 http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 3 PINAMAR" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-3-Pinamar.png" group-title="TV", CANAL 3 PINAMAR
-http://209.182.219.229:8080/hls/canal3pinamar.m3u8?PlaylistM3UCL
+http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 3 La Pampa" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-3-La-Pampa.png" group-title="TV", Canal 3 La Pampa
 https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 3 Rosario" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Eltres.png" group-title="TV", Canal 3 Rosario
