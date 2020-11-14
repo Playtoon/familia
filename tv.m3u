@@ -30,7 +30,7 @@ https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telefe" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telefe_(nuevo_logo).png" group-title="TV", Telefe
 https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1605385203~exp=1605392403~acl=/i/appmitelefe_1@326430/*~hmac=471f148e637ac9736ca928800c72bfdbe6734cca542929b815a450188ba0a1d8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telefe Santa Fe" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telefe_Santa_Fe.png" group-title="TV", Telefe Santa Fe
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1605047401~exp=1605223801~acl=/i/canal13santafe_1@751190/*~hmac=34ab1c3d15663df095903bb297085f98dccf01c667e99004f9080ac1b9a95b01
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1605222440~exp=1605398840~acl=/i/canal13santafe_1@751190/*~hmac=767abbac0aa37ae60206642df2d5605903d6fc24a19c0be588e72be9de6bcf32
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 8 Catamarca" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-8-Catamarca.png" group-title="TV", Canal 8 Catamarca
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 9 Litoral" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-nueve-litoral.png" group-title="TV", Canal 9 Litoral
