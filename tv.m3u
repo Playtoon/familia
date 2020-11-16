@@ -96,7 +96,7 @@ http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 9 MENDOZA" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LogoTelevida.png" group-title="TV", CANAL 9 MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telesol San Juan" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TLS.jpg" group-title="TV", Telesol San Juan
-https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8?PlaylistM3UCL
+https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8?nimblesessionid=1196553
 #EXTINF:-1 tvg-id="Variado" tvg-name="XFN" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/XFN-TV.png" group-title="TV", XFN
 https://5f6e1fe8f2d2e.streamlock.net:443/canalxfn/canalxfn/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Net TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/net%20tv.png" group-title="TV", Net TV
