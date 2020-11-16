@@ -28,7 +28,7 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playl
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 7 Salta" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%207%20salta.png" group-title="TV", Canal 7 Salta
 https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telefe" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telefe_(nuevo_logo).png" group-title="TV", Telefe
-https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_1_av-p.m3u8
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1605618691~acl=%2fi%2fappmitelefe_1%40326430%2f*~data=hdntl~hmac=433ba77c517060ab1bd53b4be784b2f5893f15bff9f983521de0a0c4e6771dcc
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telefe Santa Fe" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telefe_Santa_Fe.png" group-title="TV", Telefe Santa Fe
 https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 8 Catamarca" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-8-Catamarca.png" group-title="TV", Canal 8 Catamarca
