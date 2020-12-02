@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dw-espano.jpg" group-title="TV", DW Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+https://e10.stephn.xyz/ingestnb4s/espn_sur/f.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="RT ESPAÑOL" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RT%20espa%C3%B1ol.png" group-title="TV", RT ESPAÑOL
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="Canal 26" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LogoCanal26.png" group-title="TV", Canal 26
