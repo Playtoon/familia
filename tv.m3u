@@ -227,9 +227,9 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Soberania" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Soberania.png" group-title="TV", Soberania
 https://tls.cdnz.cl/iflexus/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="102651" tvg-name="Pichilemu TV" tvg-logo="https://lh3.googleusercontent.com/-cLe1X-6sOWM/XqtZ-zhsGYI/AAAAAAAAydY/AFIEb1ZL-HEceewpnqr3m9QxC3_3_KzIwCK8BGAsYHg/s0/2020-04-30.png" group-title="TV", Pichilemu TV
+#EXTINF:-1 tvg-id="102651" tvg-name="Pichilemu TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Pichilemu_TV.png" group-title="TV", Pichilemu TV
 http://play.streaminghd.cl:80/roberto886/roberto886/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="79754" tvg-name="Atacama TV" tvg-logo="https://lh3.googleusercontent.com/-Nu8nCShXmhs/XbC0i2stT9I/AAAAAAAArl0/1sC8Fi5sDqA6o5fNttdPaKtB25tuK4CJQCK8BGAsYHg/s0/2019-10-23.png" group-title="TV", Atacama TV
+#EXTINF:-1 tvg-id="79754" tvg-name="Atacama TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Atacama_TV.png" group-title="TV", Atacama TV
 https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LOCOMOTION.png" group-title="TV", LOCOMOTION
