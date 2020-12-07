@@ -261,6 +261,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 https://sony-novelas-1.roku.wurl.com/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Sony Comedias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/sony%20comedias.png" group-title="TV", Sony Comedias
 https://sony-comedias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 tvg-id="Películas y Series" tvg-name="Vallevisión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/vallevision.png" group-title="TV", Vallevisión
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="GEN TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/gen%20tv.png" group-title="TV", GEN TV
 http://video1.veemesoft.com.ar:1935/14030/14030/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CineAr" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cinear.jpg" group-title="TV", CineAr
