@@ -40,7 +40,7 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playl
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 7 Salta" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%207%20salta.png" group-title="TV", Canal 7 Salta
 https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="El Nueve" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Elnueve.png" group-title="TV", El Nueve
-https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA3NTQ4NDIwLCJzZXNzaW9uIjoiMTcwLjUxLjIwMi4xNjYiLCJ3aGl0ZWxpc3QiOlsiMTcwLjUxLjIwMi4xNjYiXX0sInNpZ25hdHVyZSI6IjhhMjFlMzI2MDJiNjVmODE2MGIxOGY3NGJiYmYxNGJhNjIzYzVjODgifQ%3D%3D
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA3ODgwMzY3LCJzZXNzaW9uIjoiMTcwLjUxLjIwMi4xNjYiLCJ3aGl0ZWxpc3QiOlsiMTcwLjUxLjIwMi4xNjYiXX0sInNpZ25hdHVyZSI6IjEwMjcwYmQwMTE2MjM2ODVlYmYyNDBhNTJlM2E3ZDVhOThlNmJhYTQifQ%3D%3D
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telefe Rosario" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telefe-Rosario-en-vivo-Online.png" group-title="TV", Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="America TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/americatvarg.png" group-title="TV", America TV
