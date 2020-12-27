@@ -294,7 +294,7 @@ https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w643928093.m3u8?WebM3U
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="AC Visión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/AC_Vision.png" group-title="TV", AC Visión
 https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/chunklist_w588471465.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="FMTV-Mundo" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/FMTV-Mundo%201%20HD.png" group-title="TV", FMTV-Mundo
-https://5c21f7ec1999d.streamlock.net:443/8070/8070/playlist.m3u8
+https://5c21f7ec1999d.streamlock.net/8070/8070/playlist.m3u8?fbclid=IwAR3tdaJmz35SpSJY0XxzzMcwWi0Mo2eUU2BL-HJBoPLIoc-QRDzIrUWeKV4
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="FMTV2-Movies" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/FMTV-Mundo%201%20HD.png" group-title="TV", FMTV2-Movies
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="FMTV3-Cine a la carta" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/FMTV-Mundo%201%20HD.png" group-title="TV", FMTV3-Cine a la carta
