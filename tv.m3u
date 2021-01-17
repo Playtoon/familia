@@ -264,11 +264,11 @@ https://sony-comedias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Vallevisión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/vallevision.png" group-title="TV", Vallevisión
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="GEN TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/gen%20tv.png" group-title="TV", GEN TV
-http://video1.veemesoft.com.ar:1935/14030/14030/playlist.m3u8
+https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CineAr" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cinear.jpg" group-title="TV", CineAr
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w708752802.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Telecreativa" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telecreativa.png" group-title="TV", Telecreativa
-https://cdn2.zencast.tv:30443/telecreativa/live/playlist.m3u8?PlaylistM3UCL
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="METRO TV TUCUMAN" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/METRO%20TV%20TUCUMAN.png" group-title="TV", METRO TV TUCUMAN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null&PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="La Voz de Tucuman" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/La%20Voz%20de%20Tucuman.png" group-title="TV", La Voz de Tucuman
@@ -292,9 +292,9 @@ https://595b85410a151.streamlock.net:443/8214/8214/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Cine Club" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Cine_Club.png" group-title="TV", Cine Club TV
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w643928093.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="AC Visión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/AC_Vision.png" group-title="TV", AC Visión
-https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/chunklist_w588471465.m3u8
+https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/chunklist_w796299712.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="FMTV-Mundo" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/FMTV-Mundo%201%20HD.png" group-title="TV", FMTV-Mundo
-https://5c21f7ec1999d.streamlock.net/8070/8070/playlist.m3u8?fbclid=IwAR3tdaJmz35SpSJY0XxzzMcwWi0Mo2eUU2BL-HJBoPLIoc-QRDzIrUWeKV4
+https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w417982514.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="FMTV2-Movies" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/FMTV-Mundo%201%20HD.png" group-title="TV", FMTV2-Movies
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="FMTV3-Cine a la carta" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/FMTV-Mundo%201%20HD.png" group-title="TV", FMTV3-Cine a la carta
@@ -302,7 +302,7 @@ https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Orbit TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ORBIT%20TV.png" group-title="TV", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="RETRO PLUS MOVIES" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20PLUS%20MOVIES.png" group-title="TV", RETRO PLUS MOVIES
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w424464000.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="RETRO PLUS Series" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20PLUS%20MOVIES.png" group-title="TV", RETRO PLUS Series
 https://panel.streamingtv-mediacp.online:1936/876769/876769/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Zee Mundo" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ZEE%20MUNDO.png" group-title="TV" ,ZEE MUNDO
