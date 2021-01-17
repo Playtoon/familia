@@ -236,6 +236,8 @@ https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-name="Kanade" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Kanade%20TV.png" group-title="TV", Kanade TV
 http://45.77.154.172:8080/hls/show.m3u8
+#EXTINF:-1 tvg-id="Infantil" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Snick.png" group-title="TV", Snick TV
+http://8.9.4.128:8080/hls/snick.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-name="Dreiko TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/DREIKO%20TV.png" group-title="TV", DREIKO TV
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Infantil" tvg-name="Paka Paka" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Pakapaka.png" group-title="TV", Paka Paka
