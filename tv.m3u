@@ -250,6 +250,8 @@ https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?Pl
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Infantil" tvg-name="Cloud Server Kids" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CSTV%20KIDS.png" group-title="TV", CSTV KIDS
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Infantil" tvg-name="Cachipum" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Cachipum.png" group-title="TV", Cachipum TV
+https://tls.cdnz.cl/cachipuntv/live/chunklist_w1996347867.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-name="Retro TV Palmares" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20tv%20PALMERAS.png" group-title="TV", TV RETRO PALMERAS
 http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="IPE (PER)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Identidad_Peruana_ipe_2016.png" group-title="TV" ,IPE (PER)
