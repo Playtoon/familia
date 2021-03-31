@@ -319,7 +319,7 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
 https://panel.streamingtv-mediacp.online:1936/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Exprezion TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/EX%20TV.png" group-title="TV", EX TV
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zutGDVK.png" group-title="Cine y Series", Canal de las Estrellas | HD | México
+#EXTINF:-1 tvg-id="Películas y Series" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/zutGDVK.png" group-title="TV", Canal de las Estrellas
 https://m3u-editor.com/serve/rokumaniatest/164011175
 
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", TNT Sports
