@@ -13,20 +13,20 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 #EXTINF:-1 tvg-id="Noticias" tvg-name="Cronica" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cronicahd.png" group-title="TV", Cronica
 https://g2.proy-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="CN 24/7 Neuquen" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CN%2024-7.jpg" group-title="TV", CN 24/7 Neuquen
-https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8?PlaylistM3UCL
+https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w756124762_b1300000_slen.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="TeleSUR Venezuela" tvg-id="TeleSUR" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TeleSUR-Logo.svg.png" group-title="TV", TeleSUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="RTVE24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RTVE24.png" group-title="TV", RTVE24
-https://rtvelivestream.akamaized.net/24h_dvr_1850.m3u8
+https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="France 24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/France24.png" group-title="TV", France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Noticias" tvg-name="HiperTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Hipertv.png" group-title="TV", HiperTV
 http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="TV Pública" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/tvpuplica2.png" group-title="TV", TV Pública
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
+https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Mirador" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mirador2.png" group-title="TV", Mirador
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w1064150774.m3u8
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w381242656.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Argentinisima" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/1argentinisima.jpg" group-title="TV", Argentinisima
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 2 Jujuy" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-2-Jujuy.png" group-title="TV", Canal 2 Jujuy
@@ -40,13 +40,13 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playl
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 7 Salta" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%207%20salta.png" group-title="TV", Canal 7 Salta
 https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="El Nueve" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Elnueve.png" group-title="TV", El Nueve
-https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA3ODgwMzY3LCJzZXNzaW9uIjoiMTcwLjUxLjIwMi4xNjYiLCJ3aGl0ZWxpc3QiOlsiMTcwLjUxLjIwMi4xNjYiXX0sInNpZ25hdHVyZSI6IjEwMjcwYmQwMTE2MjM2ODVlYmYyNDBhNTJlM2E3ZDVhOThlNmJhYTQifQ%3D%3D
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NzQxMjgwLCJzZXNzaW9uIjoiMTcwLjUxLjIwMi4yMzgiLCJ3aGl0ZWxpc3QiOlsiMTcwLjUxLjIwMi4yMzgiXX0sInNpZ25hdHVyZSI6ImM0ZWYyMWFmODM2YmU4N2RjMWYwMDMxOTYxMTRlZGQzYTg3NTM4MTUifQ%3D%3D
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telefe Rosario" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telefe-Rosario-en-vivo-Online.png" group-title="TV", Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="America TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/americatvarg.png" group-title="TV", America TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Ciudad Magazine" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ciudadmagazine.png" group-title="TV", Ciudad Magazine
-https://g4.mc-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
+https://g5.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 8 Catamarca" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-8-Catamarca.png" group-title="TV", Canal 8 Catamarca
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 9 Litoral" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-nueve-litoral.png" group-title="TV", Canal 9 Litoral
@@ -78,7 +78,7 @@ http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?Playlist
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 20 Villamaria" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/canal%2020%20villa.jpeg" group-title="TV", Canal 20 Villamaria
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 22 BS AS" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-22.png" group-title="TV", CANAL 22 BS AS
-http://api.new.livestream.com/accounts/27390802/events/8239465/live.m3u8?PlaylistM3UCL
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w387915460.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CPE TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cpe%20tv.png" group-title="TV", CPE TV
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="9LINK" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/9Link.png" group-title="TV", 9LINK
@@ -100,29 +100,29 @@ https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/.m3u8?Pla
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 3 Rosario" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Eltres.png" group-title="TV", Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="BVC" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/BVCtv.png" group-title="TV", BVC
-https://cdn2.zencast.tv:30443/bahiablanca/live/playlist.m3u8?PlaylistM3UCL
+https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 4 Esquel" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/4%20esquel.png" group-title="TV", Canal 4 Esquel
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 4 Posadas" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%204%20Posadas.png" group-title="TV", Canal 4 Posadas
 https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 4 San Juan" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-4-San-Juan.png" group-title="TV", Canal 4 San Juan
-http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL
+http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1465860200.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 9 MENDOZA" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LogoTelevida.png" group-title="TV", CANAL 9 MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telesol San Juan" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TLS.jpg" group-title="TV", Telesol San Juan
-https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8?nimblesessionid=1196553
+https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8?nimblesessionid=2473829
 #EXTINF:-1 tvg-id="Variado" tvg-name="XFN" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/XFN-TV.png" group-title="TV", XFN
 https://5f6e1fe8f2d2e.streamlock.net:443/canalxfn/canalxfn/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="KZO" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/KZO.png" group-title="TV", KZO
 https://e1.hor.entrypoint.edge-access.net/transport/hls/5eaa642772b3a25e2c28699e_720p/index.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Net TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/net%20tv.png" group-title="TV", Net TV
-https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telediario Televisión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/telediario%20tv.png" group-title="TV", Telediario Televisión
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal Nueve TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/nueve%20comodoro.png" group-title="TV", Canal Nueve TV
 https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="ONCE TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canalonce.png" group-title="TV", CANAL ONCE INTERNACIONAL (MEX)
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CANAL ONCE (MEX)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/logo_sobre_canal_once.png" group-title="TV", CANAL ONCE (MEX)
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="15TV Sabinas" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/15tv%20sabinas.png" group-title="TV", 15TV Sabinas
@@ -134,13 +134,13 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telemax Hermosillo" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telemax-hermosillo.png" group-title="TV", Telemax Hermosillo
 http://s5.mexside.net:1935/telemax/telemax/.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="TRC TV Campeche" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TRC%20tv.png" group-title="TV", TRC TV Campeche
-https://reproductor.latin.mx/latin/SRTC/playlist.m3u8?PlaylistM3UCL
+https://stream.oursnetworktv.com/latin/SRTC/chunklist_w803181694.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="8 NTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/NTV.jpg" group-title="TV", 8 NTV
-https://59802217c6db4.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/chunklist_w87857390.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjEgOToxNjozNyBQTSZoYXNoX3ZhbHVlPTV2VUE1MkpHVmwvSEhhQ3BaUkEzdGc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
 #EXTINF:-1 tvg-id="Variado" tvg-name="Mexiquense TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mexiquense%20tv.png" group-title="TV", Mexiquense TV
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Presumiendo Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/PMTV.jpg" group-title="TV", Presumiendo Mexico
-https://59802217c6db4.streamlock.net:443/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="TICAVISION"tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Ticavisi%C3%B3n.png" group-title="TV", TICAVISION 
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="BHTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/BHTV.png" group-title="TV", BHTV
@@ -182,19 +182,19 @@ https://5d8d85cf2c308.streamlock.net:1936/live/605oPXx3/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Mírame TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mirame-tv.png" group-title="TV" ,MIRAME TV
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Azteca 7 Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/azteca-7_m.png" group-title="TV" ,AZTECA 7 (MEX)
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+https://kmx79tt2djgyca3j.ezcdn383.net:8443/hls/yv4z9a.m3u8?s=p2QhWIWScOS_nFuJ-0zMVA&e=1617680352
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal Capital Colombia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal_Capital_logo.svg.png" group-title="TV" ,CANAL CAPITAL (COL)
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Señal Colombia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/se%C3%B1al%20colombia.jpg" group-title="TV" ,SEÑAL COLOMBIA HD
 https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-1500/index.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Panamericana Perú" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/panamericana-tv_m.png" group-title="TV" ,PANAMERICANA PERU
-https://cdnhd.iblups.com/hls/ptv2.m3u8
+https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqAREqZqrhUSPiF4qsRChi0)/dm/3/x774s7s/s/live-3.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="TV Perú" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Tv_Per%C3%BA.png" group-title="TV" ,TV PERU
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="La Tele Tuya Venezuela" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TLT%20play.png" group-title="TV" ,TLT (VEN)
 https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w740769207.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Atacama Noticias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Atacama%20noticias.png" group-title="TV", Atacama Noticias
-https://srv1.zcast.com.br/atacamanoticias/atacamanoticias/playlist.m3u8?PlaylistM3UCL
+https://stmv1.zcastbr.com/atacamanoticias/atacamanoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="La Popular TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LA%20POPULAR%20TV.png" group-title="TV", LA POPULAR TV HD
 https://5d1ca66d2d698.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Enfoque Digital TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Enfoque%20TV%20digital.png" group-title="TV", Enfoque Digital TV
@@ -202,7 +202,7 @@ https://Stmv1.zcastbr.com/edtvchile/edtvchile/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="América TV Chile" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Am%C3%A9rica%20TV%20Chile.jpg" group-title="TV", América TV Chile
 https://stmv1.zcastbr.com/americatvchile/americatvchile/chunklist_w1898871116.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 74 TeVe" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%2074%20TeVe.jpg" group-title="TV", Canal 74 TeVe
-https://stmv.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
+https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 74 TeVe Señal 2" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%2074%20TeVe%20Se%C3%B1al%202.jpg" group-title="TV", Canal 74 TeVe Señal 2
 https://srv3.zcast.com.br/canal74/canal74/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="TVR" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TVR%20chile.png" group-title="TV", TVR
@@ -230,7 +230,7 @@ https://tls.cdnz.cl/iflexus/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="102651" tvg-name="Pichilemu TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Pichilemu_TV.png" group-title="TV", Pichilemu TV
 http://play.streaminghd.cl:80/roberto886/roberto886/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="79754" tvg-name="Atacama TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Atacama_TV.png" group-title="TV", Atacama TV
-https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
+https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LOCOMOTION.png" group-title="TV", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
@@ -286,7 +286,7 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Telesistema" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TELESISTEMA.png" group-title="TV", TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Tele Mas" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TELE%20MAS.png" group-title="TV", TELE MAS
-https://www.webmedialive.org:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
+https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="TVMas Chile" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TVMAS%20chile.png" group-title="TV", TVMAS CHILE
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MI%20TV%20CLASICA.png" group-title="TV", MI TV CLASICA
@@ -296,7 +296,7 @@ https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Rec Online" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/REC%20ONLINE.png" group-title="TV", REC ONLINE
 https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="REC TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/REC%20TV.png" group-title="TV", REC TV
-https://595b85410a151.streamlock.net:443/8214/8214/playlist.m3u8
+https://video.misistemareseller.com:443/Jonnytv/Jonnytv/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Cine Club" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Cine_Club.png" group-title="TV", Cine Club TV
 https://Stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="AC Visión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/AC_Vision.png" group-title="TV", AC Visión
@@ -311,8 +311,6 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="RETRO PLUS MOVIES" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20PLUS%20MOVIES.png" group-title="TV", RETRO PLUS MOVIES
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w424464000.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="Películas y Series" tvg-name="RETRO PLUS Series" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20PLUS%20MOVIES.png" group-title="TV", RETRO PLUS Series
-https://panel.streamingtv-mediacp.online:1936/876769/876769/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Zee Mundo" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ZEE%20MUNDO.png" group-title="TV" ,ZEE MUNDO
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Flixtube" tvg-logo="https://www.flixtube.me/latinoamerica/wp-content/uploads/2020/08/logo-flix.png" group-title="TV" ,Flixtube
@@ -354,12 +352,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w2142756940.
 https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CrUFAjInIZkfmb3KhaZGVoJf8TwoCsr9baP6eRrv5cwRZZiU-UJVsDHx5EqbKQKSb6BMQcy3mfHSagV_qPzsK5C_pSUjCegQhBrgeF-MGr1K48sefsU7OBxDWXNwVs5D3_8sJQqHU8nFpD6EhY8idQaVtiHNp-AEtnpSUJTrOG4IzV4LSGJ_sTNQ51iA0nZsCpxkYczeZUE5nadVjuwsGI3v8WrJNxZIRQhChN8nUAil6ug0rqcf6gX9oyY_f3JaPJops8-m6BFx636Xarx3UeagpogyYQsxmkaeClvz9ve0GZ5x-vBeNGM2zIt7usuZhJNRr8Gu79EwPJulGX96ufXvN7bqg3X_BKBjYFVRg_4q6h2wtJ9nBpjpEBctrfp2AzYFMRoBOSdQaRfkpWar4CHi8NvBpSpCsY-SVeWOtFoCnig0W1rYWiuy3PABQKWh55ddvKL7wQ2oU-FjGT4sKNqNiXWsMgKxIvxF9HD4nZNIGRKyHlZoIZk21TOiZ3o_jZHjVtXQxzVeM8R6dZatS-mL2X3TwgPFTzrWyFrvaddQFxzkKXcFfiupYYCcQa0EzKDAYWm5-hRD4OEq952EcB4eI1m92KwKWjrhXYBVun9sy7Pb8cMCJa10vNidwINkdQzpkey2gadkuqh6oMZcfC-MyHH0KErB19ZoYQfdoGq-S8XrjHNpaRnB1Tiz5jHl4NUPMQtkislqiAN0ff_Y3jo30X5pQCxUxevzTLyuOEsKP5rAsYErx9dGaiqtV0DfmK3BXcstGNS5vX6zhrmkDQN0o2EtZhKSoTO-nowzquDq_xJdrrn-lEzcRHTTVAD8CumPwr0NVEb-gZtGFFVkN-pOLlZQi522dVlh3Wn-17FfT4SvXZ6qf0lCxDOPYE-J3eAuTdKdbJaqfpftJcmSDU2Z8a2Tugf1EhDbUHkY2JfB-r6tcyaGNVzPGgyt9SN2mwi1fwBs4tw.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="GARAGE TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/GARAGE%20TV.png" group-title="TV", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Deportes" tvg-name="CDO (CHI)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CDO.png" group-title="TV",CDO (CHI)
-http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-id="Deportes" tvg-name="CDO (CHI)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CDO%20PLAY.png" group-title="TV",CDO PLAY (CHI)
-https://cdo.04.cl.cdnz.cl/cdoplus/smil:cdn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="REAL MADRID TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/realmadridtv.png" group-title="TV", REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1617749728~acl=%2f*~data=hdntl~hmac=55a8f77bbd622c30a1b4e01dda8b552d0a17cf250fda7195e57544aafaff85b4
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Red Bull TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Red%20Bull%20TV.png" group-title="TV", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="MsMotor TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MSMOTORS%20TV.png" group-title="TV", MSMOTORS TV (ITA)
@@ -411,7 +405,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="Música" tvg-name="LosDesterrados.cl" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LosDesterrados.cl.png" group-title="TV", LosDesterrados.cl
 https://5e3483cba9114.streamlock.net/losdesterrados.cl/losdesterrados.cl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="CM" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cmlogo.png" group-title="TV", CM
-http://g4.proy-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+http://g4.vxral-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="INFINITA" tvg-logo="https://lh3.googleusercontent.com/-gtOJEZDXT74/X6ial-IEvuI/AAAAAAAA7HE/DVodKb8gbr4UYli0KdKGZf9Bfz4WrXqwQCK8BGAsYHg/s0/2020-11-08.png" group-title="TV", INFINITA TV
 https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="88 STEREO" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/88%20STEREO.png" group-title="TV", 88 STEREO
@@ -427,13 +421,13 @@ https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="Natural TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Natural%20TV.png" group-title="TV", Natural TV
 http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="TV POP" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TV%20POP.jpg" group-title="TV", TV POP
-https://v2.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
+https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="PORTAL FOXMIX" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/PORTAL%20FOXMIX.png" group-title="TV", PORTAL FOXMIX
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="Canal 38" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%2038.png" group-title="TV", Canal 38
 https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="RETRO MUSIC TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20MUSIC%20TV.png" group-title="TV", RETRO MUSIC TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="U TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/U%20TV.jpg" group-title="TV", U TV
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="POWER HD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/POWER.png" group-title="TV", POWER HD
@@ -457,7 +451,7 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="MTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MTV-simbolo.jpg" group-title="TV", MTV (USA)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="Rewind TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/REWIND%20TV.png" group-title="TV", REWIND TV
-https://srv2.zcast.com.br/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="TV", Mix 24-7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7 Top 100" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="TV", Mix 24-7 Top 100
@@ -471,9 +465,9 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7 Vintage" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="TV", Mix 24-7 Vintage
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="RCKStudio" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RCK%20STUDIO.png" group-title="TV", RCK STUDIO
-https://rckstudio.duckdns.org/hls/live.m3u8?PlaylistM3UCL
+https://inliveserver.com:1936/11530/11530/playlist.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="Zapping TV Music" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ZAPPING%20MUSIC.png" group-title="TV", ZAPPING MUSIC
-https://zapping.04.cl.cdnz.cl/zappingtvmusic/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="TuTv Chile" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Tu%20tv%20music.png" group-title="TV", TU TV MUSIC
 https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name"RU TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RU%20TV.png" group-title="TV", Ruido TV
@@ -492,7 +486,7 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Religiosos" tvg-name="CBN Español" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CBN%20Espa%C3%B1ol.jpg" group-title="TV", CBN Español
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
 #EXTINF:-1 tvg-id="Religiosos" tvg-name="EWTN" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/EWTN.png" group-title="TV", EWTN
-https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS.m3u8
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/448/chunklist.m3u8
 #EXTINF:-1 tvg-id="Religiosos" tvg-name="María Visión Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MARIA%20VISION.png" group-title="TV", MARIA VISION (MEX)
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-id="Religiosos" tvg-name="  Televida HD " tvg-logo="https://tvps.000webhostapp.com/familia/Logos/televida%20hd.jpg" group-title="TV", TELEVIDA HD 
