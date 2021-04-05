@@ -319,8 +319,26 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
 https://panel.streamingtv-mediacp.online:1936/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Exprezion TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/EX%20TV.png" group-title="TV", EX TV
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Películas y Series" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/zutGDVK.png" group-title="TV", Canal de las Estrellas
-https://m3u-editor.com/serve/rokumaniatest/164011175
+#EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/tuJMNzd.png" group-title="TV", Life TV
+http://media.profesionalhosting.com:1935/8201/8201/chunklist_w1047512158.m3u8
+#EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/hgJhU1u.png" group-title="TV", Media TV
+http://media.profesionalhosting.com:1935/8175/8175/.m3u8
+#EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/elXndpw.png" group-title="TV", Rakuten TV
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/mV4smeb.png" group-title="TV", Butaca TV
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/1fTcl43.png" group-title="TV", A3Cine
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+#EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/RMUYwMp.png" group-title="TV", Cine Cable TV
+https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
+#EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/YgHu53w.png" group-title="TV", Top Cine olympusat
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
+#EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/c7bRHaL.png" group-title="TV", Cine Sureño olympusat
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
+#EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/5ONURCJ.png" group-title="TV", Juntos olympusat
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+#EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/zIMRPHL.png" group-title="TV", Horrorfy olympusat
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", TNT Sports
 https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/kqfqxg.m3u8?s=PnvLX4eDwueaElIdr3msew&e=1609655080
