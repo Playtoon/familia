@@ -342,6 +342,8 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales
 https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1618269590~exp=1618276790~acl=/i/appmitelefe_1@326430/*~hmac=2226835234f2b13fe3154172ce83dcbf5da5dbd68ccb3315a3a1c62fb0319ed1
+#EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales2
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/fac33051-5f09-4a05-8ec1-3a327d2ab972:SCL/variant/0c9f77ea95444cbfd46a0108e4f60b04/bandwidth/1500000.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/sony%20competencias.png" group-title="TV", Sony Competencias
 https://sony-competencias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="TyC Sports" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TyC_Sports_logo.svg.png" group-title="TV", TyC Sports
