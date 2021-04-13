@@ -11,7 +11,7 @@ https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/85e0c45
 #EXTINF:-1 tvg-id="Noticias" tvg-name="IP" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/IPtv.jpg" group-title="TV", IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Noticias" tvg-name="Cronica" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cronicahd.png" group-title="TV", Cronica
-https://g2.proy-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+https://g1.mc-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="CN 24/7 Neuquen" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CN%2024-7.jpg" group-title="TV", CN 24/7 Neuquen
 https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w756124762_b1300000_slen.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="TeleSUR Venezuela" tvg-id="TeleSUR" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TeleSUR-Logo.svg.png" group-title="TV", TeleSUR
