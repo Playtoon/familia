@@ -242,6 +242,8 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="TV", Tooncast
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Infantil" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="TV",Supertoons TV
+https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-name="Dreiko TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/DREIKO%20TV.png" group-title="TV", DREIKO TV
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Infantil" tvg-name="Paka Paka" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Pakapaka.png" group-title="TV", Paka Paka
@@ -338,8 +340,8 @@ https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/zIMRPHL.png" group-title="TV", Horrorfy olympusat
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", TNT Sports
-https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1618269590~exp=1618276790~acl=/i/appmitelefe_1@326430/*~hmac=2226835234f2b13fe3154172ce83dcbf5da5dbd68ccb3315a3a1c62fb0319ed1
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/sony%20competencias.png" group-title="TV", Sony Competencias
 https://sony-competencias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="TyC Sports" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TyC_Sports_logo.svg.png" group-title="TV", TyC Sports
@@ -414,8 +416,8 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="On Radio Kpop" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/On%20Radio%20Kpop.png" group-title="TV", On Radio Kpop
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="MELODY CHANNEL" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MELODY%20CHANNE.png" group-title="TV", MELODY CHANNEL
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 tvg-id="Música" tvg-name="MELODY CHANNEL" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MELODY%20CHANNE.png" group-title="TV", Melody Channel
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="XTV Music" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/XTV%20Music.png" group-title="TV", XTV Music
 https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="Natural TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Natural%20TV.png" group-title="TV", Natural TV
