@@ -300,7 +300,7 @@ https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="REC TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/REC%20TV.png" group-title="TV", REC TV
 https://video.misistemareseller.com:443/Jonnytv/Jonnytv/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Cine Club" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Cine_Club.png" group-title="TV", Cine Club TV
-https://Stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8
+https://stmv.panel.mivideo.pro/cinetv/cinetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="AC Visión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/AC_Vision.png" group-title="TV", AC Visión
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="FMTV-Mundo" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/FMTV-Mundo%201%20HD.png" group-title="TV", FMTV-Mundo
