@@ -345,7 +345,7 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales2
 http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales3
-https://t13n0j85szhuzy13.uzcdn193.net:8443/hls/yzfwp0ngkv.m3u8?s=8gvBhSoXULdiZq0gjc9jNQ&e=1621491007
+https://t13n0j85szhuzy13.uzcdn193.net:8443/hls/yzfwp0ngkv.m3u8?s=WyGv10d4AcLGELyK-xuloQ&e=1621580428
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/sony%20competencias.png" group-title="TV", Sony Competencias
 https://sony-competencias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="TyC Sports" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TyC_Sports_logo.svg.png" group-title="TV", TyC Sports
