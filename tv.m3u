@@ -347,7 +347,7 @@ http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Evento Deportivo 1
 https://dx9dkszwgj.azcdn107.net:8443/hls/kqfqxg.m3u8?s=LhyMiG320fjlIOUZyyxcaw&e=1622863427
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Evento Deportivo 2
-https://e10.cdnfoxtv.me/ingestnb4s/foxpar/f.m3u8
+https://e3.cdnfoxtv.com/ingest01/68472.m3u8?sf=YklPTzA3aHk5VA==&token=zDL1VHi_I5-WiHLChS6jxA&expires=1622857918&rnd=
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/sony%20competencias.png" group-title="TV", Sony Competencias
 https://sony-competencias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="TyC Sports" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TyC_Sports_logo.svg.png" group-title="TV", TyC Sports
