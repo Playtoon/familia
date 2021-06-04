@@ -344,10 +344,10 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales2
 http://96.30.193.226:81/hls/canalaster.m3u8
-#EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales3
-https://tna5.bozztv.com/vibratv/index.m3u8
-#EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales4
-https://m3u-editor.com/serve/televito85/299133664
+#EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Evento Deportivo 1
+https://dx9dkszwgj.azcdn107.net:8443/hls/kqfqxg.m3u8?s=LhyMiG320fjlIOUZyyxcaw&e=1622863427
+#EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Evento Deportivo 2
+https://dx9dkszwgj.azcdn107.net:8443/hls/nqr8ua5ep6t.m3u8?s=rXlATf9lIdtfttbz43c15A&e=1622863474
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/sony%20competencias.png" group-title="TV", Sony Competencias
 https://sony-competencias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="TyC Sports" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TyC_Sports_logo.svg.png" group-title="TV", TyC Sports
