@@ -412,15 +412,27 @@ https://cdn01.yowi.tv/GGGGGGGGGG/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klE3Yf9.png" group-title="Variado", Mijas 3.40 TV | ES
 https://d1o1m0b8hn74yt.cloudfront.net/out/v1/dcd3c3ade6994cc9ba1f6e534ff4d1e8/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wB82I4p.png" group-title="Variado",La Otra| ES
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_2.m3u8
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H7ghBaT.png" group-title="Variado", Trece | ES
 https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8
 #EXTINF:-1 tvg-logo="https://eltorotv.com/wp-content/uploads/2020/01/logo-eltorotv.jpg" group-title="Variado", EL Toro| ES
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oy1GZJK.jpg" group-title="Variado", Ce TV | ES
 https://cdnlive.shooowit.net/rtvcelive/channel1.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 tvg-logo="https://grupocadenamediatv.com/img/logo.png" group-title="Variado", GCM TV | ES
+https://cloud.streamingconnect.tv:455/tbmadrid/tbmadrid.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logofibwilive.jpg" group-title="Variado", Fibwi Live | ES
+http://109.232.71.249/fibwiLIVE_movil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.uhdspain.com/web/wp-content/uploads/2021/04/logo_uhd.png" group-title="Variado", UHD Spain SDR | ES
+http://18.168.248.67/webdav/SDRUHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.uhdspain.com/web/wp-content/uploads/2021/04/logo_uhd.png" group-title="Variado", UHD Spain HDR | ES
+http://18.168.248.67/webdav/UHDSpain.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logotvmelilla.jpg" group-title="Variado", TV Melilla | ES
+https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoradiotvceuta.jpg" group-title="Variado", Rtvce | ES
+https://cdnlive.shooowit.net/rtvcelive/smil:channel1.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Azteca 7 Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/azteca-7_m.png" group-title="Variado", Azteca 7 | MX
-https://m3u-editor.com/serve/televito85/304571708
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJnhGwX.png" group-title="Variado", Teleplay | MX
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMqghA3.png" group-title="Variado", Telemar Campeche | MX
@@ -729,9 +741,13 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="857" tvg-name="Aster" tvg-logo="https://www.m3u.cl/logo/857_Aster.png" group-title="Infantiles", Aster*
 http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/76sJQeC.png" group-title="Infantiles", ETC TV | CL
-https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXxAWGB.png" group-title="Infantiles", Magic Kids| AR
+https://unlimited1-us.dps.live/etctv/etctv.smil/etctv/livestream4/chunks.m3u8?nimblesessionid=121610381
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXxAWGB.png" group-title="Infantiles", Magic Kids | AR
 https://live.admefy.com/live/240/clean_peach_ef224.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jDhq0ds.jpg" group-title="Infantiles", El Patio TV | ES
+http://alchimie-elpatio-1-es.samsung.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i2.paste.pics/a5c45485f920b3cb2b2e44b70059858a.png" group-title="Infantiles", Taltal TV | CL
+https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-logo="https://lh3.googleusercontent.com/-ZMval3cz_EU/YF5ScdbzL4I/AAAAAAABA-E/rzacWcIi1A4jxiQ7CtFqpBhFH9HLASs4wCK8BGAsYHg/s512/2021-03-26.jpg" group-title="Infantiles", PLANETA JR | ES
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Infantiles", Boomerang TV | CL
@@ -945,6 +961,8 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="TVMas Chile" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TVMAS%20chile.png" group-title="Cine y Series", TVMas Chile | CL
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Música" tvg-name="TV POP" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TV%20POP.jpg" group-title="Musicales", TV POP | CL
+https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2upXrAZ.png" group-title="Cine y Series", ZPTV | CL
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 #EXTINF:-1 tvg-id="313" tvg-name="Puerta Norte" tvg-logo="https://www.m3u.cl/logo/313_Puerta_Norte.png" group-title="Cine y Series", Puerta Norte | CL
