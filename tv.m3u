@@ -935,7 +935,7 @@ https://videohd.live:19360/8010/8010.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="Cine y Series", Go Max Premiere | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0071
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xncHPAF.png" group-title="Cine y Series", Cosmo | AR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xncHPAF.png" group-title="Cine y Series", Cosmo | ES
 http://91.126.141.201:1935/live/cosmoHD/.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSTV.png" group-title="Cine y Series",Plus TV | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0152
