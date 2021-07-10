@@ -741,7 +741,7 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="857" tvg-name="Aster" tvg-logo="https://www.m3u.cl/logo/857_Aster.png" group-title="Infantiles", Aster*
 http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/76sJQeC.png" group-title="Infantiles", ETC TV | CL
-https://unlimited1-us.dps.live/etctv/etctv.smil/etctv/livestream4/chunks.m3u8?nimblesessionid=121610381
+https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXxAWGB.png" group-title="Infantiles", Magic Kids | AR
 https://live.admefy.com/live/240/clean_peach_ef224.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jDhq0ds.jpg" group-title="Infantiles", El Patio TV | ES
