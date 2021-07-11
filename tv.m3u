@@ -734,6 +734,8 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LOCOMOTION.png" group-title="Infantiles", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="Infantiles", Kanade TV | CL
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/320935331
 #EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://www.toonizaki.tk/wp-content/uploads/logo-toonizaki-2021-350x150px.png" group-title="Infantiles", Toonizaki | AR
 https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-name="AZTV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Infantiles", AZ TV | AR
@@ -838,7 +840,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1490716877
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-name="El Chavo TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/EL%20CHAVO%20TV.png" group-title="Infantiles", El Chavo TV | CL
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Infantil" tvg-name="CSTV" tvg-logo="https://televisionlibre.net/img/logo_canal/Los_Simpsons.png" group-title="Infantiles", Simpsons TV | CL
+#EXTINF:-1 tvg-id="Infantil" tvg-name="CSTV" tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Infantiles", Simpsons TV | CL
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Infantil" tvg-name="Cloud Server Kids" tvg-logo="https://www.lacartoons.com/system/series/fondos/000/000/181/original/aaahh_real_monsters.png" group-title="Infantiles", Aaahh!! Monstruos | CL
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
