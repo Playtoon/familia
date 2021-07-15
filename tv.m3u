@@ -870,7 +870,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b26947
 #EXTINF:-1 tvg-id="Infantil" tvg-name="Retro TV Palmares" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20tv%20PALMERAS.png" group-title="Cine y Series", Retro TV Palmares | CR
 http://tvretropalmares.com:8090/hls/envivo.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MI%20TV%20CLASICA.png" group-title="Cine y Series", Mi TV Clásica | US
-http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5ZEN2x.png" group-title="Pluto TV", Los Tres Chiflados
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m9GKSyx.png" group-title="Pluto TV", Series
