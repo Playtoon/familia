@@ -933,6 +933,8 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 8 | DO
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 10 | DO
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/telenord10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 12 | DO
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yC7s8Xm.jpg" group-title="Cine y Series", Vision NDV | DO
