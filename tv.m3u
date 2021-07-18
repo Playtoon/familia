@@ -60,7 +60,7 @@ http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 - VARIADO -
 
 #EXTINF:-1 tvg-id="Variado" tvg-name="TV Pública" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/tvpuplica2.png" group-title="Variado", TV Pública | AR
-https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
+https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Mirador" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mirador2.png" group-title="Variado", Mirador | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w381242656.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGOURME.png" group-title="Variado", El Gourmet | AR
