@@ -1020,7 +1020,7 @@ https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 #EXTINF:-1 tvg-id="704" tvg-name="Central TV Chosica" tvg-logo="https://www.m3u.cl/logo/704_Central_TV_Chosica.png" group-title="Cine y Series", Central TV | PE
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Cine Club" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Cine_Club.png" group-title="Cine y Series", Cine Club TV | PE
-https://stmv.panel.grupolimalive.com/cineperu/cineperu/chunklist_w913623120.m3u8
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="AC Visión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/AC_Vision.png" group-title="Cine y Series", AC-Visión | EC
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="INFINITA" tvg-logo="https://serenotv.com/wp-content/uploads/2021/05/INFINITA-TV-MUSIC-2021-e1621951632209.png" group-title="Cine y Series", Infinita TV | EC
