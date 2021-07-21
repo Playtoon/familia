@@ -1060,7 +1060,7 @@ https://59ce1298bfb98.streamlock.net/cablemas/cablemas/chunklist_w480314177.m3u8
 #EXTINF:-29 tvg-logo="https://1.bp.blogspot.com/-Jt9iLTl60OI/YFerCGX_48I/AAAAAAAAAE0/iMHDPAdTFF4uL1-uDqEq8kidNq40CCvwwCPcBGAYYCw/w1200-h630-p-k-no-nu/Emprende%2BTV%2Blogo.png" group-title="Cine y Series", EMPRENDE TV | PY
 https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.retroplaytv.club/img/logo-radio.png" group-title="Cine y Series", Retro Play TV | CL
-https://paneltv.online:1936/8138/8138/playlist.m3u8
+https://v2.tustreaming.cl/retroplaytv/index.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Exprezion TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/EX%20TV.png" group-title="Cine y Series", EX TV | CL
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321" tvg-name="Huasco TV" tvg-logo="https://www.m3u.cl/logo/321_Huasco_TV.jpg" group-title="Cine y Series", Huasco TV | CL
