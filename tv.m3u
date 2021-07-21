@@ -433,6 +433,8 @@ https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3
 https://cdnlive.shooowit.net/rtvcelive/smil:channel1.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Azteca 7 Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/azteca-7_m.png" group-title="Variado", Azteca 7 | MX
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/t9MWRvP.png" group-title="Variado", Azteca América | MX
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341232465
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJnhGwX.png" group-title="Variado", Teleplay | MX
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMqghA3.png" group-title="Variado", Telemar Campeche | MX
