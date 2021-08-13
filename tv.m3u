@@ -1016,7 +1016,7 @@ https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w1057596682.m3u8
 #EXTINF:-1 tvg-id="316" tvg-name="LRP Television" tvg-logo="https://www.m3u.cl/logo/316_LRP_Television.png" group-title="Cine y Series", LRP Television | CL
 https://v2.tustreaming.cl/lrp/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Sol TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/SOL%20TV.png" group-title="Cine y Series", SOL TV | US
-https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/chunklist_w918532059_b2723840_DVR.m3u8
+https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/chunklist_w1706859315_b2723840_DVR.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Rec Online" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/REC%20ONLINE.png" group-title="Cine y Series", REC Online | BO
 https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="REC TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/REC%20TV.png" group-title="Cine y Series", REC TV | EC
