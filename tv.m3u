@@ -956,7 +956,7 @@ http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="GEN TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/gen%20tv.png" group-title="Cine y Series", GEN TV | AR
 https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Cine y Series", NEO TV Digital | AR
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="Cine y Series", Go Max Premiere | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0071
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xncHPAF.png" group-title="Cine y Series", Cosmo | ES
