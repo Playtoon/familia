@@ -961,8 +961,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0071
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xncHPAF.png" group-title="Cine y Series", Cosmo | ES
 http://91.126.141.201:1935/live/cosmoHD/.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSTV.png" group-title="Cine y Series",Plus TV | AR
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0152
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSTV.png" group-title="Cine y Series", Plus TV | AR
+https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/chunklist_w939002714.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CineAr" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cinear.jpg" group-title="Cine y Series", CineAr | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w708752802.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Telecreativa" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telecreativa.png" group-title="Cine y Series", Telecreativa | AR
