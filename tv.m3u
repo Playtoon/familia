@@ -17,7 +17,7 @@ https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="Canal 26" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LogoCanal26.png" group-title="Noticias", Canal 26 | AR
 http://200.115.193.177/live/26hd-720/.m3u8?www.tecnotv.info
 #EXTINF:-1 tvg-id="Noticias" tvg-name="A24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/A24_(2019-1).png" group-title="Noticias", A24 | AR
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/500d8391-feae-4173-a571-a688cd96d49d:SCL/variant/0c9f77ea95444cbfd46a0108e4f60b04/bandwidth/1500000.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0063
 #EXTINF:-1 tvg-id="Noticias" tvg-name="IP" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/IPtv.jpg" group-title="Noticias", IP | AR
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=2000000.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="Cronica" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cronicahd.png" group-title="Noticias", Cronica | AR
@@ -84,7 +84,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0261
 #EXTINF:-1 tvg-id="Variado" tvg-name="El Nueve" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Elnueve.png" group-title="Variado", El Nueve | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0065
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HvCzSJQ.png" group-title="Variado", Telefe | AR
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0064
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0061
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telefe Rosario" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telefe-Rosario-en-vivo-Online.png" group-title="Variado", Telefe Rosario | AR
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV85.png" group-title="Variado", Telefe Cordoba | AR
@@ -92,7 +92,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0170
 #EXTINF:-1 tvg-id="Variado" tvg-name="America TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/americatvarg.png" group-title="Variado", America TV | AR
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Variado", El Trece | AR
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0063
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0060
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gWD553w.png" group-title="Variado", América Tucuman | AR
 http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Ciudad Magazine" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ciudadmagazine.png" group-title="Variado", Ciudad Magazine | AR
