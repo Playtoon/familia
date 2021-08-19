@@ -82,7 +82,7 @@ https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="Variado", Neox TV Salta | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0248
 #EXTINF:-1 tvg-id="Variado" tvg-name="El Nueve" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Elnueve.png" group-title="Variado", El Nueve | AR
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0065
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI5NDMyMTY1LCJzZXNzaW9uIjoiMTcwLjUxLjIwMi4xNjYiLCJ3aGl0ZWxpc3QiOlsiMjgwMzo5ODAwOjk1MDQ6ODE1ZTozZDBkOjEwMTY6NDQ2ZDoxZGUwIiwiMTcwLjUxLjIwMi4xNjYiXX0sInNpZ25hdHVyZSI6Ijg2OGYwZGUyN2JkMTRjMzhjMjgzZWE0YjRkZGM0NjNmNjNmZTJiODUifQ%3D%3D
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HvCzSJQ.png" group-title="Variado", Telefe | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0061
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telefe Rosario" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telefe-Rosario-en-vivo-Online.png" group-title="Variado", Telefe Rosario | AR
