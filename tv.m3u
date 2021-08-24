@@ -1012,7 +1012,7 @@ https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w1057596682.m3u8
 #EXTINF:-1 tvg-id="316" tvg-name="LRP Television" tvg-logo="https://www.m3u.cl/logo/316_LRP_Television.png" group-title="Cine y Series", LRP Television | CL
 https://v2.tustreaming.cl/lrp/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Sol TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/SOL%20TV.png" group-title="Cine y Series", SOL TV | US
-https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/chunklist_w1706859315_b2723840_DVR.m3u8
+https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/chunklist_w1944639628_b1663840_DVR.m3u8
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/kgGwbRzG/TWD.png" group-title="Pluto TV", The Walking Dead
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/dVT7Tqsr/CSI.png" group-title="Pluto TV", CSI
