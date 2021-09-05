@@ -737,7 +737,7 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LOCOMOTION.png" group-title="Infantiles", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="Infantiles", Kanade TV | CL
-https://stream.jetixtv.club/hls/kanade.m3u8
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/347377023
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="Infantiles", Kanade TV (alt.) | CL
 https://stream.animaxla.club/hls/kanade.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://www.toonizaki.tk/wp-content/uploads/logo-toonizaki-2021-350x150px.png" group-title="Infantiles", Toonizaki | AR
