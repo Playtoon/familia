@@ -761,7 +761,7 @@ https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-logo="https://lh3.googleusercontent.com/-ZMval3cz_EU/YF5ScdbzL4I/AAAAAAABA-E/rzacWcIi1A4jxiQ7CtFqpBhFH9HLASs4wCK8BGAsYHg/s512/2021-03-26.jpg" group-title="Infantiles", PLANETA JR | ES
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Infantiles", Boomerang TV | CL
-http://96.30.193.226:81/hls/boomerang.m3u8?WebM3UCL
+http://45.32.74.87:81/hls/projectboom.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="Infantil" tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="Infantiles", Tooncast TV
 https://dx9dkszwgj.azcdn107.net:8443/hls/9efxxdu.m3u8?s=SCUfodywQ2neH8_RVwvmcw&e=1623741653
 #EXTINF:-1 tvg-id="Infantil" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="Infantiles", Supertoons TV
@@ -1032,7 +1032,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="RETRO PLUS MOVIES" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20PLUS%20MOVIES.png" group-title="Cine y Series", Retro Plus TV | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1129807833.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Zee Mundo" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ZEE%20MUNDO.png" group-title="Cine y Series", Zee Mundo | US
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1631541372-now.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Flixtube" tvg-logo="https://www.flixtube.me/latinoamerica/wp-content/uploads/2020/08/logo-flix.png" group-title="Cine y Series", Flixtube | CL
 https://panel.streamingtv-mediacp.online:1936/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/mV4smeb.png" group-title="Cine y Series", Butaca TV | MX
