@@ -958,7 +958,7 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Cine y Series", NEO TV Digital | AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xncHPAF.png" group-title="Cine y Series", Cosmo | ES
-http://91.126.141.201:1935/live/cosmoHD/.m3u8
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341220487
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSTV.png" group-title="Cine y Series", Plus TV | AR
 https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/chunklist_w939002714.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSTV.png" group-title="Cine y Series", Plus TV 2 | AR
