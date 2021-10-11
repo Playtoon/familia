@@ -933,6 +933,8 @@ https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Cine y Series", Sony Comedias | US
 https://spt-comedias-1-us.samsung.wurl.tv/1200.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/X2Z9ZnN.png" group-title="Cine y Series", Las Estrellas | MX
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/399797348
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ebo_tv_bo.png" group-title="Cine y Series", EBO TV | BO
 http://stmv1.questreaming.com/ebotv/ebotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="WOW TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/WOW%20TV.png" group-title="Cine y Series", WOW TV | SV
