@@ -2,8 +2,6 @@
 
 - NOTICIAS -
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="CD Cd Aut Bs As",TN Todo Noticias YT - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
 #EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dw-espano.jpg" group-title="Noticias", DW Español
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
 #EXTINF:-1 tvg-id="Noticias" tvg-name="France 24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/France24.png" group-title="Noticias", France 24
