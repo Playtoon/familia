@@ -2,6 +2,8 @@
 
 - NOTICIAS -
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="CD Cd Aut Bs As",TN Todo Noticias YT - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
 #EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dw-espano.jpg" group-title="Noticias", DW Español
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
 #EXTINF:-1 tvg-id="Noticias" tvg-name="France 24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/France24.png" group-title="Noticias", France 24
@@ -1041,6 +1043,8 @@ https://mediacpstreamchile.com:1936/walter/walter/playlist.m3u8?WebM3UCL
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="INFINITA" tvg-logo="https://serenotv.com/wp-content/uploads/2021/05/INFINITA-TV-MUSIC-2021-e1621951632209.png" group-title="Cine y Series", Infinita TV | EC
 https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RAiUxSx.png" group-title="Cine y Series", Rec OnLine | BO
+https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="FMTV-Mundo" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/FMTV-Mundo%201%20HD.png" group-title="Cine y Series", FM TV | US
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w417982514.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Orbit TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ORBIT%20TV.png" group-title="Cine y Series", Orbit TV | DO
