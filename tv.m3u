@@ -736,6 +736,10 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LOCOMOTION.png" group-title="Infantiles", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LOCOMOTION.png" group-title="Infantiles", Locomotion (Opt 2) | AR
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8B4c4n7.png" group-title="Infantiles", Toonizaki | AR
+https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="Infantiles", Kanade TV | CL
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/347377023
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png" group-title="Infantiles", EnerGeek TV | CL
