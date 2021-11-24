@@ -1328,7 +1328,7 @@ https://dcunilive3-lh.akamaihd.net/i/dclive_1@390901/index_150_av-p.m3u8?sd=6&re
 https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 #EXTINF:-1 tvg-logo="https://tvps.000webhostapp.com/familia/Logos/UTN%20TV.png" group-title="Cultural y Educativos", UTN TV | AR
 https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d02366Hc/xamatv.png" group-title="ARGENTINA", XAMA TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d02366Hc/xamatv.png" group-title="Cultural y Educativos", XAMA TV
 https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Uni%20Teve.png" group-title="Cultural y Educativos", Uni Teve | AR
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
