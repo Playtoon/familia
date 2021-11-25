@@ -579,23 +579,23 @@ https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/ch
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/343_VLTV.png" group-title="Variado", VLTV | CL
 https://5d1ca66d2d698.streamlock.net:1936/8096/8096/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="344" tvg-name="TV Maulinos" tvg-logo="https://www.m3u.cl/logo/344_TV_Maulinos.png" group-title="Variado", TV Maulinos | CL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/344_TV_Maulinos.png" group-title="Variado", TV Maulinos | CL
 https://5eae379fb77bb.streamlock.net:443/8054/8054/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="354" tvg-name="TV8" tvg-logo="https://www.m3u.cl/logo/354_TV8.png" group-title="Variado", TV8 | CL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/354_TV8.png" group-title="Variado", TV8 | CL
 https://593b04c4c5670.streamlock.net:443/8014/8014/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="LTV canal" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LTV%20canal.png" group-title="Variado", LTV canal | CL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xv6Dan8.png" group-title="Variado", LTV canal | CL
 https://medios.sirtel.cl/live/stream/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Canal Visión Dorada" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%20Visi%C3%B3n%20Dorada.jpg" group-title="Variado", Visión Dorada | CO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aWvKJzr.png" group-title="Variado", Visión Dorada | CO
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Canal Survision Alerce" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%20Survision%20Alerce.png" group-title="Variado", Survision | CL
-http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Soberania" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Soberania.png" group-title="Variado", Soberania | CL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AmiR1Hh.png" group-title="Variado", Survision | CL
+https://v2.tustreaming.cl/canalsurvision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mjX7HC0.png" group-title="Variado", Soberania | CL
 https://tls.cdnz.cl/iflexus/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="102651" tvg-name="Pichilemu TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Pichilemu_TV.png" group-title="Variado", Pichilemu TV | CL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3sXScBo.png" group-title="Variado", Pichilemu TV | CL
 http://play.streaminghd.cl:80/roberto886/roberto886/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="79754" tvg-name="Atacama TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Atacama_TV.png" group-title="Variado", Atacama TV | CL
+#EXTINF:-1 tvg-id="79754" tvg-name="Atacama TV" tvg-logo="https://i.imgur.com/FMFLFIL.png" group-title="Variado", Atacama TV | CL
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="ClickTv" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ClickTv.png" group-title="Variado", Click TV | CL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AkbJq31.png" group-title="Variado", Click TV | CL
 http://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6PI6tIZ.png" group-title="Variado", Wapp TV | CL
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
