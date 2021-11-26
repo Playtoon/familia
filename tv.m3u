@@ -207,7 +207,7 @@ https://59537faa0729a.streamlock.net/milenniotv/milenniotv/playlist.m3u8?Playlis
 http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/799_Canal_10_Nortevision.jpg" group-title="Variado", Canal 10 Nortevision | AR
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://tvps.000webhostapp.com/familia/Logos/canal29quilmes.png" group-title="Variado", Canal 29 Quilmes Vision | AR
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--29QV.png" group-title="Variado", Canal 29 | AR
 http://inliveserver.com:1935/8386/8386/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/231_Canal_3_Las_Heras.jpg" group-title="Variado", Canal 3 Las Heras | AR
 https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8?PlaylistM3UCL
