@@ -1704,11 +1704,11 @@ https://v2.tustreaming.cl/mastermedia/tracks-v1a1/mono.m3u8
 
 - MODA -
 
-#EXTINF:-152 tvg-logo="https://i.postimg.cc/RZ6x4Kmr/FASHIONBOOX.png" group-title="Pluto TV", Fashionbox
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6x4Kmr/FASHIONBOOX.png" group-title="Pluto TV", Fashionbox
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a64-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcad69d9-cbe2-4e00-a9bc-3c865cdc4424&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="431" tvg-name="Chic Magazine" tvg-logo="https://www.m3u.cl/logo/431_Chic_Magazine.png" group-title="Moda", Chic Magazine | CL
 https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.jpg" group-title="Moda", Fashion TV New York | US
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.jpg" group-title="Moda", Fashion TV New York | US
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTv1ysB.png" group-title="Moda", Fashion TV | FR
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
@@ -1719,11 +1719,11 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 
 - VIDEO RADIOS -
 
-#EXTINF:-1 tvg-id="210" tvg-name="Radiocanal San Francisco" tvg-logo="https://www.m3u.cl/logo/210_Radiocanal_San_Francisco.png" group-title="Video Radios", Radiocanal | AR
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/210_Radiocanal_San_Francisco.png" group-title="Video Radios", Radiocanal | AR
 https://coopmorteros.online/radiocanal/canal01.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="795" tvg-name="Metropolitana FM" tvg-logo="https://www.m3u.cl/logo/795_Metropolitana_FM.png" group-title="Video Radios", Metropolitana FM | AR
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/795_Metropolitana_FM.png" group-title="Video Radios", Metropolitana FM | AR
 https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="215" tvg-name="Azahares Radio Multimedia" tvg-logo="https://www.m3u.cl/logo/215_Azahares_Radio_Multimedia.png" group-title="Video Radios", Azahares Radio Multimedia | AR
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/215_Azahares_Radio_Multimedia.png" group-title="Video Radios", Azahares Radio Multimedia | AR
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rx7e6vi.png" group-title="Video Radios", ADN | CL
 https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL 
@@ -1771,17 +1771,17 @@ https://stmv1.zcastbr.com/radiotouch/radiotouch/chunklist_w77841709.m3u8
 https://unlimited6-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S8VPPgr.png" group-title="Video Radios", Red Fueguina Medios | CL
 https://inliveserver.com:1936/11012/11012/playlist.m3u8
-#EXTINF:-1 tvg-id="764" tvg-name="Radio Under" tvg-logo="https://www.m3u.cl/logo/764_Radio_Under.png" group-title="Video Radios", Radio Under | CL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/764_Radio_Under.png" group-title="Video Radios", Radio Under | CL
 https://eu1.servers10.com:8081/8140/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7sQUpIn.png" group-title="Video Radios", Romántica TV | CL
 http://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/romanticatv/livestream1/chunks.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jL7zgG5.png" group-title="Video Radios", Tele Angol FM | CL
 http://unlimited1-cl.dps.live/teleangolradio/teleangolradio.smil/teleangolradio/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="386" tvg-name="Energia TV" tvg-logo="https://www.m3u.cl/logo/386_Energia_TV.png" group-title="Video Radios", Energia TV | CL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/386_Energia_TV.png" group-title="Video Radios", Energia TV | CL
 https://cdn.oneplaychile.cl:1936/regionales/energia-fm/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="838" tvg-name="DBox Radio" tvg-logo="https://www.m3u.cl/logo/838_DBox_Radio.png" group-title="Video Radios", DBox Radio | CL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/838_DBox_Radio.png" group-title="Video Radios", DBox Radio | CL
 https://stmv1.voxtvhd.com.br/dbox/dbox/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Video Radios", Recuerdos Retro Radio TV | CL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Video Radios", Recuerdos Retro Radio TV | CL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EG18RP3.jpg" group-title="Video Radios",Radio Van 103.0 FM Yerevan | AM
 http://stream.radiovan.fm/stream/index.m3u8
