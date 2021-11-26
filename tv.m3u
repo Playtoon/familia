@@ -1290,7 +1290,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1213463464.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Cultural y Educativos", Viajar | AR
 https://dcunilive3-lh.akamaihd.net/i/dclive_1@390901/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1625006642~acl=%2fi%2fdclive_1%40390901*~data=hdntl~hmac=a5f130c93f4071742ef4641c9fdf5b7cef85f64877eab52b8db862dff80f5e8a
-#EXTINF:-1 tvg-logo="https://tvps.000webhostapp.com/familia/Logos/tectvarg.png" group-title="Cultural y Educativos", Tec TV | AR
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-TECTV.png" group-title="Cultural y Educativos", Tec TV | AR
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/304_UTN_TV.png" group-title="Cultural y Educativos", UTN TV | AR
 https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8?PlaylistM3UCL
