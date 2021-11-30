@@ -111,6 +111,8 @@ https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8?PlaylistM3UCL
 https://stream.arcast.live/ahora/ahora/chunklist_w171668669.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uEZBTlz.png" group-title="Variado", Cinco TV | AR
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HPlH24n.png" group-title="Variado", Unifé | AR
+https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Telediez-en-vivo-Online-100x70.png" group-title="Variado", Tele Diez | AR
 https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="Variado", TLX | AR
