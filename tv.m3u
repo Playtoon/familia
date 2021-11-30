@@ -49,7 +49,7 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/671_MVM_Noticias_Oaxaca.png" group-title="Noticias", MVM Noticias Oaxaca | MX
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFUxsAJ.png" group-title="Noticias", NPY | PA
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8
+https://rds3.desdeparaguay.net/npy/npy_int_alta/chunklist_w1321250560.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/775_ZN_Noticias.png" group-title="Noticias", ZN Noticias | AR
 http://arcast.com.ar:1935/znoticias/znoticias/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/684_UCI_Noticias_1.jpg" group-title="Noticias", UCI Noticias 1 | PE
