@@ -38,8 +38,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J1dcnRt.png" group-title="Noticias", Atacama Noticias | CL
 https://stmv1.zcastbr.com/atacamanoticias/atacamanoticias/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="Noticias", Meganoticias | CL
-http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="Noticias", Mega Noticias | CL
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/320935331
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="Noticias", 24 Play | CL
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSp9hWW.png" group-title="Noticias", CNN Chile | CL 
