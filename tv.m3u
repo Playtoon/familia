@@ -40,10 +40,6 @@ https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 https://stmv1.zcastbr.com/atacamanoticias/atacamanoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="Noticias", Mega Noticias | CL
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/404537231
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="Noticias", 24 Play | CL
-http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uSp9hWW.png" group-title="Noticias", CNN Chile | CL 
-https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/656_TV4_Noticias.png" group-title="Noticias", TV4 Noticias | MX
 https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YkAJDFQ.png" group-title="Noticias",Foro TV | MX
