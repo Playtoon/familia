@@ -62,9 +62,9 @@ http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 - VARIADO -
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="Variado", TV Pública | AR
-https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+https://canalesyou.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BmBHhG-nPzU
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICDADAB.png" group-title="Variado", Canal de la Ciudad | AR
-https://g3.vxral-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
+https://canalesyou.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=tlBrBEI1QAI
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMIRADO.png" group-title="Variado", Mirador | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w381242656.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGOURME.png" group-title="Variado", El Gourmet | AR
