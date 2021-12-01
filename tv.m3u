@@ -19,7 +19,7 @@ https://canalesyou.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="Noticias", LN+ | AR
 https://canalesyou.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=6ilZeMFyNE8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQCYzVaISEPA4RkAdtiTW26Ag2k9NVZJ2GyeLxSjg=s88-c-k-c0x00ffffff-no-rj" group-title="Noticias", LN (Capítulos: I.A.) | AR
-https://canalesyou.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
+https://canalesyou.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=NTEWQ-3CGDE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="Noticias", Canal 26 | AR
 http://200.115.193.177/live/26hd-720/.m3u8?www.tecnotv.info
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Noticias", A24 | AR
