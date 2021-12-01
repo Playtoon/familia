@@ -953,6 +953,8 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png" group-title="Cine y Series", Telesistema | CR
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/e067ea7d04aa3bcd78e8892df03409af.png" group-title="Cine y Series", Visiónplus TV | CL
+https://v1.tustreaming.cl:19360/visionplustv/visionplustv.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png" group-title="Cine y Series", Planetatv Movie | CL
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0oTjKAa.png" group-title="Cine y Series", TVMas | CL
@@ -1028,7 +1030,7 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/794_Canal_CNR_Jujuy.png" group-title="Cine y Series", CNR TV | AR
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPSCPkI.jpg" group-title="Cine y Series", Lim TV | PY
-http://tv.limpy.online:8080/livestream/limtv.m3u8
+https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QNVF58v.png" group-title="Cine y Series", Somos del Este | PY
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/e853fc308798874fb175094ece8fd24a292941926.jpg" group-title="Cine y Series", Cablemás TV | PY
