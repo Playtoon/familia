@@ -94,7 +94,7 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV85.png" group-title="Variado", Telefe Cordoba | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0161
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS86.png" group-title="Variado", America TV | AR
-https://router.cdn.rcs.net.ar/mnp/america/output.mpd
+https://raw.githubusercontent.com/Playtoon/4/main/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Variado", El Trece | AR
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gWD553w.png" group-title="Variado", América Tucuman | AR
