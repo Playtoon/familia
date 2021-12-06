@@ -100,7 +100,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gWD553w.png" group-title="Variado", América Tucuman | AR
 http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/ciudad-magazine-100x70.png" group-title="Variado", Ciudad Magazine | AR
-https://g5.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
+https://edge4-sl.cvattv.com.ar///live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo-100x70.png" group-title="Variado", Canal 8 Catamarca | AR
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-9-Litoral-en-vivo-Online-100x70.png" group-title="Variado", Canal 9 Litoral | AR
