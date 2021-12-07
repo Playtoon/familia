@@ -724,8 +724,10 @@ https://live.admefy.com/live/default/husky_harlequin_ef535.m3u8
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/76sJQeC.png" group-title="Infantiles", ETC TV | CL
 https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/766-7663817_dream-logos-wiki-boomerang-from-cartoon-network-hd.png" group-title="Infantiles", Boomerang
+http://140.82.23.166:81/hls/boomerang.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXxAWGB.png" group-title="Infantiles", Magic Kids | AR
-https://live.admefy.com/live/clean_peach_ef224.m3u8
+https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="Infantiles", PlanetaTV Kids | CL
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a5c45485f920b3cb2b2e44b70059858a.png" group-title="Infantiles", Taltal TV | CL
