@@ -714,6 +714,8 @@ https://live.admefy.com/live/default/mature_apricot_e6bc9.m3u8
 https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1018_Animax.png" group-title="Infantiles", Animax | HN
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="Infantiles", Kid 90 | CL
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-name="AZTV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png" group-title="Infantiles", AZ TV | AR
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Infantiles", Latino Kids TV | UY
