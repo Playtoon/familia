@@ -978,21 +978,21 @@ http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-tv.jpg" group-title="Cine y Series", Canela TV | US
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-tv.jpg" group-title="Cine y Series", Canela TV 2 | US
-https://stream.ads.ottera.tv/cl/4c85359b-e37f-442d-8a21-1e851f685830/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/42c3b27e-9988-444c-92dd-72f87887a7ea/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-classics.jpg" group-title="Cine y Series", Canela Clásicos | US
-https://stream.ads.ottera.tv/cl/a010aac0-8493-4794-a3bf-02cb4c3615ec/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/54fe3f6e-c16d-4f1d-a6b2-46ae3391c8f8/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-accion-mexicana-16x9.jpg" group-title="Cine y Series", Acción Mexicana | US
-https://stream.ads.ottera.tv/cl/e10a073c-d627-4d99-8026-0c1e864beb5e/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/22a7bff5-59e4-4ead-9c8f-4ba6a906c622/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="Cine y Series", Canela Telenovelas | US
-https://stream.ads.ottera.tv/cl/d77b0ccf-d359-4d33-a6cc-81ad79d22c8a/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/6a15d298-680b-4fd4-93b8-9afcae365668/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-tierra-16x9.jpg" group-title="Cine y Series", Tierra de Amor y Venganza | US
-https://stream.ads.ottera.tv/cl/982ed067-2c5e-4144-a63f-914356e5d772/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/7a797793-37b0-43d0-8374-7687d39a6d12/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-talisman-16x9_2.jpg" group-title="Cine y Series", El Talismán | US
-https://stream.ads.ottera.tv/cl/431793ff-94a7-4af4-82a2-50899561cc12/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/6bdb5c6e-7cc4-4b3f-9fe5-fdc0147be20d/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-cinema.jpg" group-title="Cine y Series", Canela Cinema | US
-https://stream.ads.ottera.tv/cl/eac82145-98b9-40d4-ae99-e46c9f446f53/1280x720_2300000_4_false.m3u8?cfvod.kaltura.com/scf/hlsm/p/2657331/sp/265733100/serveFlavor/entryId/1_cb0ymvux/v/1/ev/10/flavorId/1_enyke1ub/name/a.mp4/index.m3u8/clipFrom/3840000/clipTo/4320000/seg-7-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzI2NTczMzEvc3AvMjY1NzMzMTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9jYjB5bXZ1eC92LzEvZXYvMTAvZmxhdm9ySWQvMV9lbnlrZTF1Yi9uYW1lL2EubXA0L2luZGV4Lm0zdTgvY2xpcEZyb20vMzg0MDAwMC9jbGlwVG8vNDMyMDAwMC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoyMTQ3NDgzNjQ3fX19XX0_&Signature=gy9zH1fOATRl3Va-L8J8DSHVngg4E4wuBIcZSRYriOMvjo5qY7HqDbgo~wPVJ0V-X3fQ~JpCqChllm8vL3p~LMD2qq0yXyKhjm3hGpYMD8EbqABYu53Ljf4D4P1TYS0kA~cH8cWgC69nq0xYE9A0NcOy~vuZ~yn5yNoh8X73kWWZestdzl21I1uwNIPf8Er3rAd1WaEabDGhwKMgnLLhE6xa79ebgRWywjdF3Ie2b8hAm1XMLvLAk1S1dPrDPsRtq3mLKb7jVkx~f1btEYJQod6CzySe-FjfR68j5F09EeOVpPEWbondB-q6r7kzw5uqOgty9jBL9hzOBrnZWeejUw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+https://stream.ads.ottera.tv/cl/a299a1a7-334d-412d-8733-143543ff3f16/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-cine-romantico.jpg" group-title="Cine y Series", Cine Romántico | US
-https://stream.ads.ottera.tv/cl/c009c1bd-7f74-486e-a372-4ecad734be09/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/2fbf4e0a-cd1e-4866-9f9a-90051edadb0f/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="http://barvatvplus.com/wp-content/uploads/2020/12/PicsArt_11-24-11.04.44.png" group-title="Cine y Series", Barva TV
 https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/315_Geovision.jpg" group-title="Cine y Series", Geovision | CL
