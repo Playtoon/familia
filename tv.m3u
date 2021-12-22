@@ -1027,8 +1027,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1631541372-now.m3u8
 #EXTINF:-1 tvg-logo="https://www.flixtube.me/latinoamerica/wp-content/uploads/2020/08/logo-flix.png" group-title="Cine y Series", Flixtube | CL
 https://panel.streamingtv-mediacp.online:1936/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mV4smeb.png" group-title="Cine y Series", Butaca TV | MX
-https://veranda-butacatv-1-es.samsung.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mV4smeb.png" group-title="Cine y Series", Butaca TV | ES
+https://veranda-butacatv-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mV4smeb.png" group-title="Cine y Series", Butaca TV 2 | MX
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q4e1NlB.png" group-title="Cine y Series", A3Series | HD | ES
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341243325
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fTcl43.png" group-title="Cine y Series", A3Cine | ES
