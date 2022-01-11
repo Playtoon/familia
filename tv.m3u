@@ -1016,7 +1016,9 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9gOcwz.png" group-title="Cine y Series", Cine Club TV | PE
 https://mediastreamm.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKdtHe1.png" group-title="Cine y Series", Teleclásicos | CR
-https://tvdatta.com:3484/hybrid/play.m3u8
+https://tvdatta.com:3484/live/djmaocr2021live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKdtHe1.png" group-title="Cine y Series", Teleclásicos 2 | CR
+https://tvdatta.com:3484/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAiUxSx.png" group-title="Cine y Series", Rec OnLine | BO
 https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png" group-title="Cine y Series", Mega Cine TV | DO
