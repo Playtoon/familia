@@ -965,7 +965,7 @@ http://v2.tustreaming.cl/visionplustv/tracks-v1a1/mono.m3u8
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png" group-title="Cine y Series", Planetatv Movie | CL
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0oTjKAa.png" group-title="Cine y Series", TVMas | CL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="Cine y Series", Viwix TV | CL
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQx2UPS.png" group-title="Musicales", TV POP | CL
 https://v4.tustreaming.cl/poptv/index.m3u8
