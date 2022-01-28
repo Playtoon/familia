@@ -1014,7 +1014,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d3574e97f10800078
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/704_Central_TV_Chosica.png" group-title="Cine y Series", Central TV | PE
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9gOcwz.png" group-title="Cine y Series", Cine Club TV | PE
-https://mediastreamm.com:3176/live/cineclublive.m3u8
+https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKdtHe1.png" group-title="Cine y Series", Teleclásicos | CR
 https://tvdatta.com:3484/live/djmaocr2021live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKdtHe1.png" group-title="Cine y Series", Teleclásicos 2 | CR
