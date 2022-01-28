@@ -708,6 +708,8 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFDhzBy.png" group-title="Infantiles", Locomotion (Opt 2) | AR
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDoAarw.png" group-title="Infantiles", Aniplus | AR
+https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w111746657.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8B4c4n7.png" group-title="Infantiles", Toonizaki | AR
 https://live.admefy.com/live/default/mature_apricot_e6bc9.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png" group-title="Infantiles", EnerGeek TV | CL
