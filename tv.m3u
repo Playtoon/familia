@@ -710,34 +710,38 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hDoAarw.png" group-title="Infantiles", Aniplus | AR
 https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w111746657.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8B4c4n7.png" group-title="Infantiles", Toonizaki | AR
-https://live.admefy.com/live/default/mature_apricot_e6bc9.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png" group-title="Infantiles", EnerGeek TV | CL
-https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png" group-title="Infantiles", EnerGeek | CL
+https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/947_EnerGeek.png" group-title="Infantiles", EnerGeek 2 | CL
+https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PdprUkZ.png" group-title="Infantiles",Aster Max
+https://stream.projectboom.live/hls/max.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1018_Animax.png" group-title="Infantiles", Animax | HN
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bj57fIn.png" group-title="Infantiles",Jetix
+http://jetixjahh20.duckdns.org/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQBRAwP.png" group-title="Infantiles",Fox Kids
+http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="Infantiles", Kid 90 | CL
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
-#EXTINF:-1 tvg-id="Infantil" tvg-name="AZTV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png" group-title="Infantiles", AZ TV | AR
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png" group-title="Infantiles", AZ TV | AR
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Infantiles", Latino Kids TV | UY
-https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
+https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w191003441.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/901_Teleanimacion.png" group-title="Infantiles", Teleanimacion | ES
 https://live.admefy.com/live/default/husky_harlequin_ef535.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFWjIk1.png" group-title="Infantiles", Chinola TV | DO
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/76sJQeC.png" group-title="Infantiles", ETC TV | CL
 https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/766-7663817_dream-logos-wiki-boomerang-from-cartoon-network-hd.png" group-title="Infantiles", Boomerang
-http://140.82.23.166:81/hls/boomerang.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXxAWGB.png" group-title="Infantiles", Magic Kids | AR
-https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="Infantiles", PlanetaTV Kids | CL
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a5c45485f920b3cb2b2e44b70059858a.png" group-title="Infantiles", Taltal TV | CL
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Infantiles", Planeta Junior TV | ES
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Infantiles", Planeta Junior TV 2 | ES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="Infantiles", Supertoons TV
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kURilHG.png" group-title="Pluto TV", Nick Clásico
@@ -986,27 +990,29 @@ https://contracorriente-canalfeelgood-1-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-tv.jpg" group-title="Cine y Series", Canela TV | US
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-tv.jpg" group-title="Cine y Series", Canela TV 2 | US
-https://stream.ads.ottera.tv/cl/42c3b27e-9988-444c-92dd-72f87887a7ea/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/9aac7a9d-367f-41fc-9416-d489cfd3c9e5/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-classics.jpg" group-title="Cine y Series", Canela Clásicos | US
-https://stream.ads.ottera.tv/cl/54fe3f6e-c16d-4f1d-a6b2-46ae3391c8f8/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/cafaa1ed-be5f-41d0-9a08-3c07ad09994b/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-accion-mexicana-16x9.jpg" group-title="Cine y Series", Acción Mexicana | US
-https://stream.ads.ottera.tv/cl/22a7bff5-59e4-4ead-9c8f-4ba6a906c622/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/28a1f817-c38d-4be8-a6d5-f284d7226a45/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="Cine y Series", Canela Telenovelas | US
-https://stream.ads.ottera.tv/cl/6a15d298-680b-4fd4-93b8-9afcae365668/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/28a1f817-c38d-4be8-a6d5-f284d7226a45/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-tierra-16x9.jpg" group-title="Cine y Series", Tierra de Amor y Venganza | US
-https://stream.ads.ottera.tv/cl/7a797793-37b0-43d0-8374-7687d39a6d12/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/cafaa1ed-be5f-41d0-9a08-3c07ad09994b/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-talisman-16x9_2.jpg" group-title="Cine y Series", El Talismán | US
-https://stream.ads.ottera.tv/cl/6bdb5c6e-7cc4-4b3f-9fe5-fdc0147be20d/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/fc11f109-46ae-43ad-bc5d-e78c31f94e99/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-cinema.jpg" group-title="Cine y Series", Canela Cinema | US
-https://stream.ads.ottera.tv/cl/a299a1a7-334d-412d-8733-143543ff3f16/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/2af8cb15-b205-4236-9a91-4648b24dc4cc/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-cine-romantico.jpg" group-title="Cine y Series", Cine Romántico | US
-https://stream.ads.ottera.tv/cl/2fbf4e0a-cd1e-4866-9f9a-90051edadb0f/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/c3960fb5-dff8-4bff-8497-5e4d837a8e56/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="http://barvatvplus.com/wp-content/uploads/2020/12/PicsArt_11-24-11.04.44.png" group-title="Cine y Series", Barva TV
 https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/315_Geovision.jpg" group-title="Cine y Series", Geovision | CL
 https://5fa5de1a545ae.streamlock.net:443/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/480_EvaStream.png" group-title="Cine y Series", EvaStream | CL
 https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w1057596682.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png" group-title="Cine y Series", Eva Retro | CL
+https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/316_LRP_Television.png" group-title="Cine y Series", LRP Television | CL
 https://v2.tustreaming.cl/lrp/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/473_Sol_TV.png" group-title="Cine y Series", SOL TV | US
