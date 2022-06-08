@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW Español
 https://m3u-editor.com/serve/televitolibre/497955345.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alsAUUk.png" group-title="Noticias", France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+https://canalesyou.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjWhU8T.png" group-title="Noticias", VOA | US
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias", Euronews | ES
