@@ -1058,7 +1058,7 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/794_Canal_CNR_Jujuy.png" group-title="Cine y Series", CNR TV | AR
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPSCPkI.jpg" group-title="Cine y Series", Lim TV | PY
-https://buddhist.tv/static/streaming-playlists/hls/a58a6aed-aa8c-4070-8127-6e2dd235779b/3.m3u8
+http://live.limplay.ml/limtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QNVF58v.png" group-title="Cine y Series", Somos del Este | PY
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/e853fc308798874fb175094ece8fd24a292941926.jpg" group-title="Cine y Series", Cablemás TV | PY
