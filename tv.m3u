@@ -902,11 +902,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007f
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdgPjk2J/nosotras.png" group-title="Pluto TV", Entre Nosotras
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492c67f4c48700075b5d37/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a120e9e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a6154e7b-2129-4d9d-8cda-6b75cd73e6c8&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" group-title="Cine y Series", Run:time
-https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
+https://stream.ads.ottera.tv/cl/977bd65f-34e0-4b38-9ce6-17bb1a64509a/1280x720_3071200_0_false.m3u8
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" group-title="Cine y Series", Run:time 2
-https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+https://stream.ads.ottera.tv/cl/1d2f3f1d-7166-4a65-b1d6-3e0f6c1ca101/1280x720_2300000_0_false.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" group-title="Cine y Series", Run:time 3
-https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+https://stream.ads.ottera.tv/cl/53e7c6c0-5403-4adb-bc43-49f8bf1eabbc/1280x720_2300000_0_false.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Cine y Series", Sony Novelas | US
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Cine y Series", Sony Comedias | US
