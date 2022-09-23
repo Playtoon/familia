@@ -80,7 +80,7 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEjHUot.png" group-title="Variado", El Cuatro Jujuy | AR
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w2067338248_b121000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q6BQ5YO.png" group-title="Variado", Canal 7 Jujuy | AR
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1513535596_b868352.m3u8
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w2000261215_b917504.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI7SALTA.png" group-title="Variado", Canal 7 Salta | AR
 https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="Variado", Neox TV Salta | AR
