@@ -971,8 +971,14 @@ http://v2.tustreaming.cl/visionplustv/tracks-v1a1/mono.m3u8
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png" group-title="Cine y Series", Planetatv Movie | CL
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="Cine y Series", Viwix TV | CL
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="Cine y Series", Viwix TV Terror | CL
+https://s2.tvdatta.com:3849/hybrid/play.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="Cine y Series", Viwix TV Accion | CL
+https://s2.tvdatta.com:3457/hybrid/play.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="Cine y Series", Viwix TV Estrenos | CL
+https://s2.tvdatta.com:3172/hybrid/play.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="Cine y Series", Viwix TV Series | CL
+https://s2.tvdatta.com:3402/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQx2UPS.png" group-title="Musicales", TV POP | CL
 https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2upXrAZ.png" group-title="Cine y Series", ZPTV | CL
@@ -1001,12 +1007,6 @@ https://stream.ads.ottera.tv/cl/28a1f817-c38d-4be8-a6d5-f284d7226a45/1280x720_23
 https://stream.ads.ottera.tv/cl/cafaa1ed-be5f-41d0-9a08-3c07ad09994b/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-talisman-16x9_2.jpg" group-title="Cine y Series", El Talismán | US
 https://stream.ads.ottera.tv/cl/fc11f109-46ae-43ad-bc5d-e78c31f94e99/1280x720_2300000_4_false.m3u8
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-cinema.jpg" group-title="Cine y Series", Canela Cinema | US
-https://stream.ads.ottera.tv/cl/2af8cb15-b205-4236-9a91-4648b24dc4cc/1280x720_2300000_4_false.m3u8
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-cine-romantico.jpg" group-title="Cine y Series", Cine Romántico | US
-https://stream.ads.ottera.tv/cl/c3960fb5-dff8-4bff-8497-5e4d837a8e56/1280x720_2300000_4_false.m3u8
-#EXTINF:-1 tvg-logo="http://barvatvplus.com/wp-content/uploads/2020/12/PicsArt_11-24-11.04.44.png" group-title="Cine y Series", Barva TV
-https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/315_Geovision.jpg" group-title="Cine y Series", Geovision | CL
 https://5fa5de1a545ae.streamlock.net:443/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/480_EvaStream.png" group-title="Cine y Series", EvaStream | CL
