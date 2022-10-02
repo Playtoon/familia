@@ -735,7 +735,7 @@ https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/76sJQeC.png" group-title="Infantiles", ETC TV | CL
 https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="Infantiles", PlanetaTV Kids | CL
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a5c45485f920b3cb2b2e44b70059858a.png" group-title="Infantiles", Taltal TV | CL
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Infantiles", Planeta Junior TV | ES
@@ -970,7 +970,7 @@ http://v2.tustreaming.cl/visionplustv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c4059d4b2eb7b24f7208a93b05312995.png" group-title="Cine y Series", EGM Channel | CL
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png" group-title="Cine y Series", Planetatv Movie | CL
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="Cine y Series", Viwix TV Terror | CL
 https://s2.tvdatta.com:3849/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="Cine y Series", Viwix TV Accion | CL
