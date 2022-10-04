@@ -731,7 +731,7 @@ https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png" group-title="Infantiles", AZ TV | AR
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Infantiles", Latino Kids TV | UY
-https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w191003441.m3u8
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/901_Teleanimacion.png" group-title="Infantiles", Teleanimacion | ES
 https://live.admefy.com/live/default/husky_harlequin_ef535.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFWjIk1.png" group-title="Infantiles", Chinola TV | DO
