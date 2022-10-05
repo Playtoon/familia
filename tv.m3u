@@ -1252,7 +1252,7 @@ http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 #EXTINF:-1 tvg-logo="https://packfutbol.com.ar/imagenes/base/fox.png" group-title="Deportes", FOX Sports Premium | AR
 http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1 tvg-logo="https://tntsports.com.ar/__export/1610632432438/sites/tntsports/arte/apps/twitter_summary_card_20210114.jpg" group-title="Deportes", TNT Sports | AR
-http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAMSPOR.png" group-title="Deportes", América Sports | AR
 https://canalesyou.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
 #EXTINF:-1 tvg-logo="https://canalshowsport.com.ar/wp-content/uploads/2021/05/logo-SS-HEADER-blue-1.png" group-title="Deportes", Show Sport | AR
