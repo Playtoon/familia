@@ -718,6 +718,10 @@ https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/256571eecddd2c7e0156fc340b900787.png" group-title="Infantiles", EnerGeek 4 | CL
 https://live.tubyte.xyz/LiveApp/streams/531839509402196773557900.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Infantiles", Magic | AR
+https://magicstream.ddns.net:443/magicstream/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Infantiles", Retro Mágico | AR
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdprUkZ.png" group-title="Infantiles",Aster Max
 https://stream.projectboom.live/hls/max.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1018_Animax.png" group-title="Infantiles", Animax | HN
