@@ -1255,6 +1255,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600169ec77e6f70008f
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TYC.png" group-title="Deportes", TyC Sports 2 | AR
 https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index_9.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8pbvG92.png" group-title="Deportes", Pluto TV Deportes | US
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e7e0e926-f697-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" group-title="Deportes", ESPN 2 | AR
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 #EXTINF:-1 tvg-logo="https://packfutbol.com.ar/imagenes/base/fox.png" group-title="Deportes", FOX Sports Premium | AR
