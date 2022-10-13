@@ -1034,7 +1034,7 @@ https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAiUxSx.png" group-title="Cine y Series", Rec OnLine | BO
 https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png" group-title="Cine y Series", Mega Cine TV | DO
-https://cdn1.streamgato.us/megacinetv/megacinetv/playlist.m3u8
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2022/01/cropped-iU-500-x-500-32x32.png" group-title="Cine y Series", IU TV | DO
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png" group-title="Cine y Series", FM TV | US
