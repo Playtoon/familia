@@ -713,11 +713,9 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w111746657.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="Infantiles", EnerGeek | CL
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="Infantiles", EnerGeek Fanpop | CL
-https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WIFyoqI.png" group-title="Infantiles", EnerGeek Wowly | CL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIFyoqI.png" group-title="Infantiles", EnerGeek Animate | CL
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/256571eecddd2c7e0156fc340b900787.png" group-title="Infantiles", EnerGeek 4 | CL
-https://live.tubyte.xyz/LiveApp/streams/531839509402196773557900.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9177c225a1b026e4b7e4b716f4a9c913.png" group-title="Infantiles", Wowly Channel | CL
 https://stream.wowlymedia.com/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png" group-title="Infantiles", Moni TV | CL
