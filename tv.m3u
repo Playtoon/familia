@@ -718,6 +718,8 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9177c225a1b026e4b7e4b716f4a9c913.png" group-title="Infantiles", Wowly Channel | CL
 https://stream.wowlymedia.com/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.paste.pics/abc447b0667e0012a060e9a79f10fcb2.png" group-title="Infantiles", Kanade TV | CL
+https://stream.wowlymedia.com/hls/kanade/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png" group-title="Infantiles", Moni TV | CL
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Infantiles", Magic | AR
