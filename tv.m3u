@@ -3,7 +3,7 @@
 - NOTICIAS -
 
 #EXTINF:-1 tvg-id="DeutscheWelleEs.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW Español
-https://m3u-editor.com/serve/televitolibre/497955345.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alsAUUk.png" group-title="Noticias", France 24
 https://canalesyou.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjWhU8T.png" group-title="Noticias", VOA | US
