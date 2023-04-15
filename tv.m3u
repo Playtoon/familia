@@ -1044,7 +1044,7 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2022/01/cropped-iU-500-x-500-32x32.png" group-title="Cine y Series", IU TV | DO
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png" group-title="Cine y Series", FM TV | US
-https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w2023380793.m3u8
+https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="Cine y Series", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Cine y Series", Retro Plus TV | CL
