@@ -19,7 +19,7 @@ https://canalesyou.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="Noticias", LN+ | AR
 https://canalesyou.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="Noticias", Canal 26 | AR
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1678324952/ei/eOAIZP_XEoKaobIPnZm1yAo/ip/186.182.88.164/id/rP_uqzRVHk4.1/source/yt_live_broadcast/requiressl/yes/tx/24482667/txs/24482667%2C24482668%2C24482669%2C24482670%2C24482671%2C24482672%2C24482673/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKtGTO-bPNuZy9wi5gsCkstN6g5imbXdYfVleTpwS__NAiBokxCKnC9i9571rjblUJUrci-bRtCaZUnyHH3nEOSKAQ%3D%3D/file/index.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Noticias", A24 | AR
 https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/e8cef597-8172-42ec-919d-6d2c3e5b3ad3:SCL/variant/0c9f77ea95444cbfd46a0108e4f60b04/bandwidth/1500000.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C5N.png" group-title="Noticias", C5N | AR
