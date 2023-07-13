@@ -970,7 +970,7 @@ https://panel.dattalive.com:443/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/239_Fenix.jpg" group-title="Cine y Series", Fenix | AR
 http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://panctv.com.ar/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png" group-title="Cine y Series", PANC TV | AR
-https://video.trixserver.com:8443/uv096/uv096/playlist.m3u8
+https://stream.trixserver.com:3088/live/uv096live.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/820_El_Palomar_TV_Tucuman.jpg" group-title="Cine y Series", El Palomar TV Tucuman | AR
 https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Ft5Jyf_b1IM/XrYPmPh3AMI/AAAAAAAA0io/wrYd6ohXsH4M8Jd-uReILaQxfvcXnQF2wCK8BGAsYHg/s0/2020-05-08.png" group-title="Cine y Series", Metro TV | AR
