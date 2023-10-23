@@ -795,6 +795,8 @@ https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
 https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lv0mnMF.png" group-title="Cine y Series", Onda TV 10 | DO
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cascaratv.com/wp-content/uploads/2022/12/cropped-cascara1-1.png" group-title="Cine y Series", Cascara TV | DO
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c4191909-02c9-4043-9a9a-9344a83653e4/Bigtime_Light_Mode_Logo.png" group-title="Cine y Series", Bigtime
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-6348969190b96ef5e0eb327a.m3u8?X-Plex-Session-Identifier=pgp9lhwhmcou8mbu90iuq5ex&X-Plex-Product=Plex%20Web&X-Plex-Version=4.116.1&X-Plex-Client-Identifier=36njvickmp2b95ydm4sxigkj&X-Plex-Platform=Firefox&X-Plex-Platform-Version=118.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Firefox&X-Plex-Device-Screen-Resolution=1920x947%2C1920x1080&X-Plex-Token=WyfCuYh6ijrjbMCmHs-N&X-Plex-Language=es&Accept-Language=es&X-Plex-Session-Id=9b7ab6e4-c0e3-469f-820d-dcd4b98ab114
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-GENTV.png" group-title="Cine y Series", GEN TV | AR
