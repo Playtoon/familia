@@ -881,6 +881,8 @@ https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/playlist.m3u8
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2vz3nRG/image.png" group-title="Cine y Series", STV | CR
 https://lstv.duckdns.org:449/hls/stv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OuDSI9E2J9A/hq720.jpg" group-title="Cine y Series", Camino al Cielo
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-6449369eb3ff17382cae5811/variant.m3u8?url=05242703baf61170a03364d9a72c71c5-8ff2a996594f108a71a881a983310a7a9b867887487da024520b55cc1ec95f42c513c18d6772325ccd9ce937a4e465ed7f458018c9f0fbb2cf10f8971cd412b261ebe7d1ed32248ae3699028498e8a1f1a778ca5bd0a4fd835a3bba9857a39af871adec2789a0cc7961f1fffcb52cd103bdc915b71c1e2e11cba9b418bb5fdfec5d2d993bd968a913eb6c1dada1274b65fada8559e554b3bf1a3616882935b5a&x-plex-token=WyfCuYh6ijrjbMCmHs-N&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1698093489
 #EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="Cine y Series", Teleclásica
 https://cageu.bozztv.com/ssh101/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png" group-title="Cine y Series", Mega Cine TV | DO
