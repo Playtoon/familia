@@ -260,7 +260,7 @@ https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1349_Canal_4_Balcarce.png" group-title="Variado", Canal 4 Balcarce | AR
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/778_Canal_5_Pico_Truncado.jpg" group-title="Variado", Canal 5 Pico Truncado | AR
-hhttps://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/1.m3u8
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/773_Canal_5_Santa_Fe.png" group-title="Variado", C5SF | AR
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/773_Canal_5_Santa_Fe.png" group-title="Variado", C5SF 2 | AR
