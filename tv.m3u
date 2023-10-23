@@ -879,8 +879,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38041b3f-c9d2-4524-8784-12dc0b2a0c11&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bdjhhC.png" group-title="Pluto TV", Doctor Who
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/704_Central_TV_Chosica.png" group-title="Cine y Series", Central TV | PE
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Y8u1MmGB57A/XHmEHs8cf2I/AAAAAAAACG0/5YG4YIEuMVkNtzXhXHEYmqxleyMxoyNPACLcBGAs/s320/CANAL%2B18%2B%25281%2529.png" group-title="Cine y Series", KBO TV | PE
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1183_VZ_TV.png" group-title="Cine y Series", VZ TV | PE
 https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1509_Peruvisual.png" group-title="Cine y Series", Peruvisual | PE
