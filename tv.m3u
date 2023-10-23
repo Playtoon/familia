@@ -347,6 +347,8 @@ https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/92811182991
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/641_UMTV.png" group-title="Variado", umtv | MX
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png" group-title="Variado", Auténtica TV | PE
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1095_OK_TeVe.png" group-title="Variado", OK TeVe | PE
 https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/690_JN19.png" group-title="Variado", JN19 TV | PE
