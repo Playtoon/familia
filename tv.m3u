@@ -644,6 +644,8 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-639ba57d3f4612cc150a5723.m3u8?X-Plex-Session-Identifier=pgp9lhwhmcou8mbu90iuq5ex&X-Plex-Product=Plex%20Web&X-Plex-Version=4.116.1&X-Plex-Client-Identifier=36njvickmp2b95ydm4sxigkj&X-Plex-Platform=Firefox&X-Plex-Platform-Version=118.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Firefox&X-Plex-Device-Screen-Resolution=1920x947%2C1920x1080&X-Plex-Token=WyfCuYh6ijrjbMCmHs-N&X-Plex-Language=es&Accept-Language=es&X-Plex-Session-Id=9b7ab6e4-c0e3-469f-820d-dcd4b98ab114
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1421_13_Kids.png" group-title="Infantiles", 13 Kids | CL
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Infantiles", Magic Kids | AR
+https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Infantiles", Magic | AR
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Infantiles", Retro Mágico | AR
