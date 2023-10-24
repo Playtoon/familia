@@ -295,6 +295,8 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMARCHI.png" group-title="Variado", Marchi TV | AR
 https://panel.dattalive.com/8102/8102/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Variado", Xtrema TV | AR
+https://stmv1.cnarlatam.com/canal1/canal1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESBOLIVI.png" group-title="Variado", Bolivisión | BO
 https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1178_Red_Uno_La_Paz.png" group-title="Variado", Red Uno | BO
@@ -632,6 +634,8 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png" group-title="Infantiles", Varied TV | AR
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Infantiles", Xtrema Anime | AR
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png" group-title="Infantiles", Pandamax TV | CL
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="Infantiles", EnerGeek | CL
@@ -781,6 +785,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492c67f4c48700075
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-64694d52f73356567a64ce8c/variant.m3u8?url=3d8e571262d716434f280b151cf6ca58-5eab23c3e0fbf4a951c2a87e0adcfeae41c0fdf5d155fcab6959a9e854baf20237a4a82afdd7020e0414fdbaebb036c090aec2756bf7f9a185cfa80174d89906139a74f57049e73d3ec1f32d9ebb63de41f6dff7ec3a00075b782a5036485f4d&x-plex-token=WyfCuYh6ijrjbMCmHs-N&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1698082077
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2023/03/FreeTV-Logo.png" group-title="Cine y Series", Free TV | ES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Cine y Series", Xtrema Retro Series | AR
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Cine y Series", Xtrema Series | AR
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d157f90b58f339b618e640758707e7d3.png" group-title="Cine y Series", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png" group-title="Cine y Series", Novelisima
