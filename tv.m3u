@@ -813,8 +813,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-cane
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-64d4e82ac5d4668c9cb7b5df.m3u8?X-Plex-Session-Identifier=pgp9lhwhmcou8mbu90iuq5ex&X-Plex-Product=Plex%20Web&X-Plex-Version=4.116.1&X-Plex-Client-Identifier=36njvickmp2b95ydm4sxigkj&X-Plex-Platform=Firefox&X-Plex-Platform-Version=118.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Firefox&X-Plex-Device-Screen-Resolution=1920x947%2C1920x1080&X-Plex-Token=WyfCuYh6ijrjbMCmHs-N&X-Plex-Language=es&Accept-Language=es&X-Plex-Session-Id=9b7ab6e4-c0e3-469f-820d-dcd4b98ab114
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Cine y Series", Sony Novelas | US
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Cine y Series", Sony Novelas 2 | US
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/fbc7b029-6ccd-4931-96b5-2199062e5857/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Cine y Series", Sony Comedias | US
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/qt5l5CajTEOY94Wg1MVQr9Alqe5khV1rnynPY9Q7.jpg" group-title="Cine y Series", Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Cine y Series", WOW TV | SV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8kylKlz.png" group-title="Cine y Series", Vallevisión | DO
@@ -829,6 +833,76 @@ https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c4191909-02c9-4043-9a9a-9344a83653e4/Bigtime_Light_Mode_Logo.png" group-title="Cine y Series", Bigtime
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-6348969190b96ef5e0eb327a.m3u8?X-Plex-Session-Identifier=pgp9lhwhmcou8mbu90iuq5ex&X-Plex-Product=Plex%20Web&X-Plex-Version=4.116.1&X-Plex-Client-Identifier=36njvickmp2b95ydm4sxigkj&X-Plex-Platform=Firefox&X-Plex-Platform-Version=118.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Firefox&X-Plex-Device-Screen-Resolution=1920x947%2C1920x1080&X-Plex-Token=WyfCuYh6ijrjbMCmHs-N&X-Plex-Language=es&Accept-Language=es&X-Plex-Session-Id=9b7ab6e4-c0e3-469f-820d-dcd4b98ab114
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Cine y Series", Xtrema Cine Acción | AR
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Cine y Series", Xtrema Cine Suspenso | AR
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Cine y Series", Xtrema Cine Terror | AR
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Cine y Series", Xtrema Cine Comedy | AR
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Cine y Series", Xtrema Cine Family | AR
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Cine y Series", Xtrema Cine Hindi | AR
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Cine y Series", Xtrema Cine Asia | AR
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Cine y Series", Xtrema Cine Europa | AR
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Cine y Series", Xtrema Cine Latino | AR
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://multivisioncable.com.ar/imagenes/logo.jpg" group-title="Cine y Series", Multivisión Cable | AR
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/24-1.jpg" group-title="Cine y Series", Mega Cine | AR
+https://stmv1.cnarlatam.com/supercine/supercine/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/10/264-video-club.jpg" group-title="Cine y Series", Video Club | AR
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg" group-title="Cine y Series", Ciudad Magica TV | AR
+https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
+#EXTINF:-1 tvg-logo="https://canal3argentina.tv/wp-content/uploads/2018/11/cropped-logoweb.png" group-title="Cine y Series", Canal 3 | AR
+https://stmv1.cnarlatam.com/canal3argentina/canal3argentina/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cadenavivo.com/wp-content/uploads/2022/11/cropped-VIVO-FAVIC-192x192.png" group-title="Cine y Series", V!VO | AR
+https://stmv1.cnarlatam.com/cadenavivo/cadenavivo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Cine y Series", Cosmos TV | AR
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/26.jpg" group-title="Cine y Series", Televisíon 33 | AR
+https://tuvideoonline.com.ar:3703/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://solivetv.net/wp-content/uploads/2020/09/cropped-logo2.png" group-title="Cine y Series", SO Live TV | AR
+https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://solivetv.net/wp-content/uploads/2020/09/cropped-logo2.png" group-title="Cine y Series", SO Live TV | AR
+https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/megatvbolivia.com/wp-content/uploads/2023/07/megalog.png" group-title="Cine y Series", Mega TV | BO
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pandonettvcom.files.wordpress.com/2021/02/cropped-logo-l-1-1.png" group-title="Cine y Series", PandoNet TV | BO
+https://stmv1.cnarlatam.com/pandonet/pandonet/chunklist_w1259439897.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/trFoGA9F9EdB1HmF17QKGXXOzYUJE8nINMxftDAw.jpg" group-title="Cine y Series", Cinema+ | CO
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png" group-title="Cine y Series", Retro X TV | CR
+https://tgn.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/HIunLcAm2EnbWrdUuNHbcjAD6BcwX1yOHGaK1Vjg.jpg" group-title="Cine y Series", Zurqui TV | CR
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/s0lXUIZk3mcdyyS6PN1PRR7P1HdoRr71NE8rlI9U.png" group-title="Cine y Series", TV+ | CR
+https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/chunklist_w1658251518.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/t5aW7ednjkvqH55Rvqcd4JYE1CUAL5DLMn1Jx0rk.png" group-title="Cine y Series", Meta Versus TV | CR
+https://stream8.mexiserver.com:1936/metaversuscr/metaversuscr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/4XG15pow3WCRx7QMJ9W8EYBqAtUpnd8RSzWLA8fO.jpg" group-title="Cine y Series", CB TV | CR
+https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/S0utvG5YQJSEUE2HlmVONkyxDroLiotox9kiPKIV.jpg" group-title="Cine y Series", Telesur | CR
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/0aTanMNEHbIc0kTQ13uIKH2lZKqFv8kBiPzQtIjc.jpg" group-title="Cine y Series", Nosara TV | CR
+https://stmv.streamingvip.click/tvnosara2/tvnosara2/chunklist_w2013537805.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/E5z08TbQ1s6AcyzUkuKyAwYTauLHfvPz540Sl4t2.png" group-title="Cine y Series", Garabito TV | CR
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_4HIGUkiCF08/Si2fh608tiI/AAAAAAAABHQ/KQQKt6rQFOo/s400/Zona+Vision+Canal+12.png" group-title="Cine y Series", Zona Visión TV | DO
+https://5790d294af2dc.streamlock.net:443/Zonavisiontv/Zonavisiontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/42.jpg" group-title="Cine y Series", RTV Naranjal | EC
+https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1934915259.m3u8
+#EXTINF:-1 tvg-logo="https://distritotv.es/wp-content/uploads/2021/03/LOGO-MODIFICADO-CRIS.png" group-title="Cine y Series", Distrito TV | ES
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png" group-title="Cine y Series", Visión TV | GT
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/0d8x32riHsAzwJW7ZIiaZn9NKLM6a8JDSIWs2oFl.jpg" group-title="Cine y Series", Coco TV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-GENTV.png" group-title="Cine y Series", GEN TV | AR
 https://inliveserver.com:1936/14056/14056/chunklist_w760831006.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Cine y Series", NEO TV Digital | AR
@@ -1184,6 +1258,18 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 
 - CULTURAL Y EDUCATIVOS -
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Cultural y Educativos", Xtrema Animales | AR
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://msinteractiva.com.ar/wp-content/uploads/2021/06/LOGO-2.png" group-title="Cultural y Educativos", TechScience 365 | AR
+https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://elhistonauta.com/wp-content/uploads/2021/05/cropped-cropped-logo_claro.png" group-title="Cultural y Educativos", El Histonauta TV | AR
+https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/BmFMsvsIuKsahxXC6IAk7sYzBQfLq5xH1EdWwW2D.png" group-title="Cultural y Educativos", Astro Net TV | AR
+https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telocuentoyque.com.ar/wp-content/uploads/2020/03/logo-nuevo-head.png" group-title="Cultural y Educativos", TLC TV | AR
+https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Cultural y Educativos", Xtrema Aventuras TV | AR
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1445_Teatrix.png" group-title="Cultural y Educativos", Teatrix TV | AR
 https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIENCUEN.png" group-title="Cultural y Educativos", Encuentro | AR
