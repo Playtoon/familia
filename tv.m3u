@@ -309,6 +309,16 @@ https://w8.redpat.tv:7777/play/110/index.m3u8
 https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOo9s_F84swSVysce-YYI05VDKbtpCECTZ6xnoklDXrcV)/dm/3/x84eirw/s/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbMaclw.png" group-title="Variado", Bolivia TV 7.1 | BO
 https://5f2c1b0d880e5.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMyAxMTo0Mzo1MyBQTSZoYXNoX3ZhbHVlPWJNakU0V20yVnpVTitwVll6NTZwclE9PSZ2YWxpZG1pbnV0ZXM9MjUmaWQ9
+#EXTINF:-1 tvg-logo="https://redmixtvbolivia.com/wp-content/uploads/2023/10/logo10_19_22502-edited.png" group-title="Variado", Red Mix TV | BO
+https://stmv1.cnarlatam.com/redmixtv/redmixtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fcbc13062bd98383ec421386ea9b2ba1.webp" group-title="Variado", Faro Visíon | DO
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/multivision.png" group-title="Variado", Multivisíon | DO
+https://vdo2.streamgato.us:3608/live/canalmultivisionlive.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3325-294x165-FFFFFF.jpg" group-title="Variado", Valle nuevo TV | DO
+https://vdo2.streamgato.us:3639/live/generacionestvlive.m3u8
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/l/a/s/las-estrellas.jpg" group-title="Variado", Las Estrellas | MX
+https://channel01.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4PdxpJ.png" group-title="Variado", Multimedios | CR
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h8kIvLr.png" group-title="Variado", ONCE | MX
