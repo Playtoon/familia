@@ -637,9 +637,27 @@ http://45.173.198.59:8080/hls/nginx3.m3u8
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/520_Venevision.png" group-title="Variado", Venevision | VE
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png" group-title="Variado", Telemundo
+http://190.102.242.130:25461/66486141/1234/93
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Variado", Caracol
+http://190.102.242.130:25461/66486141/1234/128
 
 - INFANTILES -
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Infantiles", Cartoon Network
+http://190.102.242.130:25461/66486141/1234/52
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png"" group-title="Infantiles", Disney Channel
+http://190.102.242.130:25461/66486141/1234/53
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Kids_%28Logo%29.png" group-title="Infantiles", Dos Kids
+http://190.102.242.130:25461/66486141/1234/54
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp" group-title="Infantiles", Discovery Kids
+http://190.102.242.130:25461/66486141/1234/55
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ETC_2016-actual.png/800px-ETC_2016-actual.png" group-title="Infantiles", Etc
+http://190.102.242.130:25461/66486141/1234/58
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1280px-DreamWorks_Channel_Logo.svg.png" group-title="Infantiles", DreamWorks Channel
+http://190.102.242.130:25461/66486141/1234/107
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/1200px-Nickelodeon_2023_logo.svg.png" group-title="Infantiles", Nick
+http://190.102.242.130:25461/66486141/1234/59
 #EXTINF:-1 tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="Infantiles", AnimeStation TV | AR
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png" group-title="Infantiles", Varied TV | AR
@@ -761,6 +779,37 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnGVfj4N/plutotvgamer.png" group-title="Pluto TV", Gamer (Inglés)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d5b62-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8311f10-8c2e-45bb-a408-7e2c579d7adb&userId=&serverSideAds=true
 
+- NOVELAS -
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Novelas", Las Estrellas
+http://190.102.242.130:25461/66486141/1234/91
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png" group-title="Novelas", Pasiones
+http://190.102.242.130:25461/66486141/1234/92
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="Novelas", Telenovelas
+http://190.102.242.130:25461/66486141/1234/125
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Novelas", Sony Novelas | US
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d157f90b58f339b618e640758707e7d3.png" group-title="Novelas", Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPQXtDw/STNHP.png" group-title="Pluto TV", Sin tetas no hay Paraíso
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bdaa71-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc5aeb38-8de1-4922-821b-78e2296d5daa&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tv0d6eV.png" group-title="Pluto TV", Novelas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brrSv3LH/novelas_clásicas.png" group-title="Pluto TV", Telemundo Clásico Telenovelas
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0f0b220-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=79e9b33f-8cdd-440c-8503-74ea6fda2b73&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb2bbkHF/romance.png" group-title="Pluto TV", Amantes del Romance
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c839cf2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9a7995e2-90ca-4ea0-82a2-c34af9dc3d4e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://racunalniske-novice.com/wp-content/uploads/2020/03/sng.jpg" group-title="Pluto TV", Novelas Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c400-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1feeb0e2-4545-4706-9038-7ed5ff515781&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm80zdmQ/thrillers.png" group-title="Pluto TV", Novelas Thriller
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c401-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ffbb9a2c-01a5-4d7e-9f19-6c9247bdee77&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02LK8GSD/badass.png" group-title="Pluto TV", Badass Novelas
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a10a0680-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf124469-b782-4838-97f3-dbdc0a869a37&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFX9T5q5/abuela.png" group-title="Pluto TV", Novelas con la Abuela
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109df70-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=702cfffa-9f1d-4a32-86b2-fac554cec889&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdgPjk2J/nosotras.png" group-title="Pluto TV", Entre Nosotras
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492c67f4c48700075b5d37/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a120e9e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a6154e7b-2129-4d9d-8cda-6b75cd73e6c8&userId=&serverSideAds=true
+
 - CINE Y SERIES -
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-69OUFEsZEzE/XuzYkDQB5ZI/AAAAAAAA2A8/TtTckrIloRkQkhv8uNthZzDvFMH-dAkFwCK8BGAsYHg/s0/2020-06-19.png" group-title="Cine y Series", TV Retro Palmares | CR
@@ -781,44 +830,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a9c516a2-cd13-4321-a812-3ab72b0db482&deviceLat=-33.0728&deviceLon=-68.4627&deviceMake=Chrome%20Mobile&deviceModel=Chrome%20Mobile&deviceType=web&deviceVersion=80.0.3987.162&includeExtendedEvents=false&sid=38279f58-67e9-4189-874f-bc6305cd9296&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://3dl0u21nnqk62nshp111jz32-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png" group-title="Pluto TV", Nuestra Visión
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d880-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26dab85a-c1e2-4023-9cde-864e1c0d5f94&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxPQXtDw/STNHP.png" group-title="Pluto TV", Sin tetas no hay Paraíso
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bdaa71-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc5aeb38-8de1-4922-821b-78e2296d5daa&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tv0d6eV.png" group-title="Pluto TV", Novelas
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/brrSv3LH/novelas_clásicas.png" group-title="Pluto TV", Telemundo Clásico Telenovelas
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0f0b220-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=79e9b33f-8cdd-440c-8503-74ea6fda2b73&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb2bbkHF/romance.png" group-title="Pluto TV", Amantes del Romance
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c839cf2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9a7995e2-90ca-4ea0-82a2-c34af9dc3d4e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://racunalniske-novice.com/wp-content/uploads/2020/03/sng.jpg" group-title="Pluto TV", Novelas Drama
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c400-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1feeb0e2-4545-4706-9038-7ed5ff515781&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm80zdmQ/thrillers.png" group-title="Pluto TV", Novelas Thriller
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c401-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ffbb9a2c-01a5-4d7e-9f19-6c9247bdee77&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02LK8GSD/badass.png" group-title="Pluto TV", Badass Novelas
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a10a0680-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf124469-b782-4838-97f3-dbdc0a869a37&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFX9T5q5/abuela.png" group-title="Pluto TV", Novelas con la Abuela
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109df70-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=702cfffa-9f1d-4a32-86b2-fac554cec889&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdgPjk2J/nosotras.png" group-title="Pluto TV", Entre Nosotras
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492c67f4c48700075b5d37/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a120e9e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a6154e7b-2129-4d9d-8cda-6b75cd73e6c8&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9eca3c59-10f2-4311-b979-866063b819f2/Corizon_Hor_image.jpg" group-title="Cine y Series", Corazón
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-64694d52f73356567a64ce8c/variant.m3u8?url=3d8e571262d716434f280b151cf6ca58-5eab23c3e0fbf4a951c2a87e0adcfeae41c0fdf5d155fcab6959a9e854baf20237a4a82afdd7020e0414fdbaebb036c090aec2756bf7f9a185cfa80174d89906139a74f57049e73d3ec1f32d9ebb63de41f6dff7ec3a00075b782a5036485f4d&x-plex-token=WyfCuYh6ijrjbMCmHs-N&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1698082077
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2023/03/FreeTV-Logo.png" group-title="Cine y Series", Free TV | ES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Cine y Series", Xtrema Retro Series | AR
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIXTREMA.png" group-title="Cine y Series", Xtrema Series | AR
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d157f90b58f339b618e640758707e7d3.png" group-title="Cine y Series", Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png" group-title="Cine y Series", Novelisima
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-64d4e82ac5d4668c9cb7b5df.m3u8?X-Plex-Session-Identifier=pgp9lhwhmcou8mbu90iuq5ex&X-Plex-Product=Plex%20Web&X-Plex-Version=4.116.1&X-Plex-Client-Identifier=36njvickmp2b95ydm4sxigkj&X-Plex-Platform=Firefox&X-Plex-Platform-Version=118.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Firefox&X-Plex-Device-Screen-Resolution=1920x947%2C1920x1080&X-Plex-Token=WyfCuYh6ijrjbMCmHs-N&X-Plex-Language=es&Accept-Language=es&X-Plex-Session-Id=9b7ab6e4-c0e3-469f-820d-dcd4b98ab114
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Cine y Series", Sony Novelas | US
-https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Cine y Series", Sony Novelas 2 | US
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/fbc7b029-6ccd-4931-96b5-2199062e5857/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Cine y Series", Sony Comedias | US
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/qt5l5CajTEOY94Wg1MVQr9Alqe5khV1rnynPY9Q7.jpg" group-title="Cine y Series", Sony Cine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Cine y Series", WOW TV | SV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8kylKlz.png" group-title="Cine y Series", Vallevisión | DO
@@ -959,6 +978,8 @@ http://190.102.242.130:25461/66486141/1234/102
 http://190.102.242.130:25461/66486141/1234/109
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png" group-title="Cine y Series", Adult Swim
 http://190.102.242.130:25461/66486141/1234/78
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/qt5l5CajTEOY94Wg1MVQr9Alqe5khV1rnynPY9Q7.jpg" group-title="Cine y Series", Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine y Series", Sony
 http://190.102.242.130:25461/66486141/1234/49
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="Cine y Series", Tnt
@@ -1163,6 +1184,37 @@ https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-71 tvg-logo="https://i.postimg.cc/fbgSGDJt/PARAMOUNT.png" group-title="Pluto TV", Paramount+ Presenta
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
+
+- ESPECIALES y DOCUMENTALES -
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Especiales y Documentales", History
+http://190.102.242.130:25461/66486141/1234/71
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Especiales y Documentales", History 2
+http://190.102.242.130:25461/66486141/1234/72
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" group-title="Especiales y Documentales", Nat Geo
+http://190.102.242.130:25461/66486141/1234/73
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" group-title="Especiales y Documentales", Animal Planet
+http://190.102.242.130:25461/66486141/1234/74
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Especiales y Documentales", Discovery
+http://190.102.242.130:25461/66486141/1234/79
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Discovery_H%26H_Logo_2022.webp" group-title="Especiales y Documentales", Discovery H&H
+http://190.102.242.130:25461/66486141/1234/80
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Especiales y Documentales", Discovery ID
+http://190.102.242.130:25461/66486141/1234/81
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png"" group-title="Especiales y Documentales", Discovery Science
+http://190.102.242.130:25461/66486141/1234/82
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Especiales y Documentales", Discovery Turbo
+http://190.102.242.130:25461/66486141/1234/84
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="Especiales y Documentales", Discovery World
+http://190.102.242.130:25461/66486141/1234/85
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Especiales y Documentales", TLC
+http://190.102.242.130:25461/66486141/1234/88
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/2560px-HGTV_Logo.svg.png" group-title="Especiales y Documentales", HGTV
+http://190.102.242.130:25461/66486141/1234/87
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="Especiales y Documentales", El Gourmet
+http://190.102.242.130:25461/66486141/1234/90
+#EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/food-network-logo-black-and-white.png" group-title="Especiales y Documentales", Food Network
+http://190.102.242.130:25461/66486141/1234/86
 
 - HISTORIAS Y REALITIES -
 
@@ -1435,6 +1487,10 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 
 - MUSICALES -
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/2560px-MTV_Logo.svg.png" group-title="Musicales", Mtv
+http://190.102.242.130:25461/66486141/1234/67
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/2155px-MTV_Live_2021_logo.svg.png" group-title="Musicales", Mtv Live
+http://190.102.242.130:25461/66486141/1234/129
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/286_Quatro_TV.png" group-title="Musicales", Quatro TV | AR
 https://stream.arcast.live/quatro/quatro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MxFTN6J.png" group-title="Musicales", La Popular TV | CL
