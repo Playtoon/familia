@@ -908,9 +908,69 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Cine y Series", NEO TV Digital | AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1435__Cine.png" group-title="Cine y Series", +Cine | CL
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1235_Origen_TV.png" group-title="Cine y Series", Origen TV | CL
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png" group-title="Cine y Series", Terror TV | CL
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png" group-title="Cine y Series", Amc
+http://190.102.242.130:25461/66486141/1234/29
+#EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/mimages/0000000000000_p0_v0_s600x595.jpg" group-title="Cine y Series", B&N
+http://190.102.242.130:25461/66486141/1234/30
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine y Series", Cinecanal
+http://190.102.242.130:25461/66486141/1234/32
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="Cine y Series", Cinemax
+http://190.102.242.130:25461/66486141/1234/33
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png" group-title="Cine y Series", Fx
+http://190.102.242.130:25461/66486141/1234/34
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cine y Series", Hbo
+http://190.102.242.130:25461/66486141/1234/35
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine y Series", Hbo 2
+http://190.102.242.130:25461/66486141/1234/36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png" group-title="Cine y Series", Hbo Family
+http://190.102.242.130:25461/66486141/1234/37
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Cine y Series", Hbo Xtreme
+http://190.102.242.130:25461/66486141/1234/38
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Paramount_Network_wordmark_%28Black%29.svg" group-title="Cine y Series", Paramount
+http://190.102.242.130:25461/66486141/1234/39
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="Cine y Series", Space
+http://190.102.242.130:25461/66486141/1234/40
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="Cine y Series", Star Channel
+http://190.102.242.130:25461/66486141/1234/41
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="Cine y Series", Studio Universal
+http://190.102.242.130:25461/66486141/1234/42
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp" group-title="Cine y Series", Sun Channel
+http://190.102.242.130:25461/66486141/1234/43
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Logo_Universal_Channel.svg/2560px-Logo_Universal_Channel.svg.png" group-title="Cine y Series", Universal Channel
+http://190.102.242.130:25461/66486141/1234/44
+#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Cine y Series", Mx Prime
+http://190.102.242.130:25461/66486141/1234/111
+#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="Cine y Series", Mx Classic
+http://190.102.242.130:25461/66486141/1234/45
+#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="Cine y Series", Mx Family
+http://190.102.242.130:25461/66486141/1234/46
+#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Cine y Series", Mx Old
+http://190.102.242.130:25461/66486141/1234/47
+#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Cine y Series", Mx Series
+http://190.102.242.130:25461/66486141/1234/48
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Cine y Series", Tnt Series
+http://190.102.242.130:25461/66486141/1234/102
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Cine y Series", AXN
+http://190.102.242.130:25461/66486141/1234/109
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png" group-title="Cine y Series", Adult Swim
+http://190.102.242.130:25461/66486141/1234/78
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine y Series", Sony
+http://190.102.242.130:25461/66486141/1234/49
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="Cine y Series", Tnt
+http://190.102.242.130:25461/66486141/1234/51
+#EXTINF:-1 tvg-logo="https://amcconnectv2.s3.amazonaws.com/downloads/set_channel_logo-/fteagp6ohk_filmfilm.png" group-title="Cine y Series", Film and Arts
+http://190.102.242.130:25461/66486141/1234/70
+#EXTINF:-1 tvg-logo="https://www.europaeuropa.tv/theme/assets/ee-logo.png" group-title="Cine y Series", Europa Europa
+http://190.102.242.130:25461/66486141/1234/108
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="Cine y Series", Moni Tv
+http://190.102.242.130:25461/66486141/1234/1
+#EXTINF:-1 tvg-logo="https://www.producteca.com/wp-content/uploads/2020/01/Logos-carrousel-clientes-08-300x300.png" group-title="Cine y Series", Canal Rex
+http://190.102.242.130:25461/66486141/1234/127
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1339_Senal_21.png" group-title="Cine y Series", Señal 21 | CL
 https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1469_TV_Canal_5.png" group-title="Cine y Series", TV Canal 5 | CL
@@ -933,8 +993,6 @@ https://video20.klm99.com:3621/hybrid/play.m3u8
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png" group-title="Cine y Series", Planetatv Movie | CL
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png" group-title="Cine y Series", Terror TV | CL
-https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="Cine y Series", Chilevisual Retro | CL
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1505_Chilevisual_Film.png" group-title="Cine y Series", Chilevisual Film | CL
@@ -1199,23 +1257,23 @@ https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/ind
 https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8pbvG92.png" group-title="Deportes", Pluto TV Deportes | US
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e7e0e926-f697-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Deportes", ESPN Premium | AR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Deportes", ESPN Premium
 http://190.102.242.130:25461/66486141/1234/22
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN | AR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN
 http://190.102.242.130:25461/66486141/1234/18
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 2 | AR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 2
 http://190.102.242.130:25461/66486141/1234/19
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 3 | AR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 3
 http://190.102.242.130:25461/66486141/1234/20
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 4 | AR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 4
 http://190.102.242.130:25461/66486141/1234/116
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 5 | AR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 5
 http://190.102.242.130:25461/66486141/1234/115
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 6 | AR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 6
 http://190.102.242.130:25461/66486141/1234/117
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 7 | AR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 7
 http://190.102.242.130:25461/66486141/1234/23
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports | AR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
 http://190.102.242.130:25461/66486141/1234/21
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes", DeporTV | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w2142756940.m3u8
