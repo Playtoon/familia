@@ -929,7 +929,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1435__Cine.png" group-title="Cine y Series", +Cine | CL
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1235_Origen_TV.png" group-title="Cine y Series", Origen TV | CL
-https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
+https://tv.streaming-chile.com:8081/origentvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png" group-title="Cine y Series", Terror TV | CL
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png" group-title="Cine y Series", Amc
