@@ -5,68 +5,54 @@
 #EXTINF:-1 tvg-id="DeutscheWelleEs.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alsAUUk.png" group-title="Noticias", France 24
-http://ythlsgo.onrender.com/video/Y-IlMeCCtIg.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/alsAUUk.png" group-title="Noticias", France 24 Alt.
-https://ythlsgo.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0071
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias", Euronews | ES
-https://ythlsgo.onrender.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0038
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IvOTHIU.png" group-title="Noticias", RTVE24 | ES
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SeiG5UX.png" group-title="Noticias", RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---CNN.png" group-title="Noticias",CNN en Español
-http://181.78.24.67:8010/play/a03p/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---CNN.png" group-title="Noticias",CNN International
-https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---CNN.png" group-title="Noticias",CNN | CL
+http://190.102.242.130:25461/66486141/1234/13
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Noticias", TN | AR
-https://live-01-01-tn.vodgc.net/TN24/tracks-v4a1/mono.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0058
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Noticias", TN (Alt.) | AR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="Noticias", LN+ | AR
-https://ythlsgo.onrender.com/video/4e8Iw3Frf1A.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="Noticias", LN+ Alt. | AR
-https://ythlsgo.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="Noticias", LN+ (Alt.) | AR
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0076
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="Noticias", Canal 26 | AR
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="Noticias", A24 | AR
-https://ythlsgo.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0089
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C5N.png" group-title="Noticias", C5N | AR
-https://ythlsgo.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0074
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----IP.png" group-title="Noticias", IP | AR
-https://ythlsgo.onrender.com/video/IxQ2-6Y4y9w.m3u8
+https://usher.ttvnw.net/api/channel/hls/ip_noticias.m3u8?acmb=e30%3D&allow_source=true&browser_family=firefox&browser_version=126.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=1742966&parent_domains=twitchplayer&platform=web&play_session_id=5d568789d7c2e52e1a1e4d00c4b233c8&player_backend=mediaplayer&player_version=1.29.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=cd096809b6e039f2748c0f0c843ca4f74bb7426a&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ip_noticias%22%2C%22channel_id%22%3A625134483%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%220de6ee47651ef0b5%22%2C%22expires%22%3A1716948470%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.182.88.236%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRONIC.png" group-title="Noticias", Cronica | AR
 https://ythlsgo.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HffgQdT.png" group-title="Noticias", CN 24/7 | AR
-https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w756124762_b1300000_slen.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICANALE.png" group-title="Noticias", Canal-E | AR
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6V8sh3v.png" group-title="Noticias", TVPe Noticias | PE
-https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_3.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELESU.png" group-title="Noticias", TeleSUR | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YkAJDFQ.png" group-title="Noticias",Foro TV | MX
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iZ6B9VC.jpg" group-title="Noticias", HiperTV | CL
-http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 
 - VARIADO -
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="Variado", TV Pública | AR
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="Variado", TV Pública Alt. | AR
-http://ythls.onrender.com/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICDADAB.png" group-title="Variado", Canal de la Ciudad | AR
-https://ythls.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0028
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aWjBev1.png" group-title="Variado", Argentinisima | AR
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---ATB.png" group-title="Variado", ATV Argentina | AR-BO
-http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E1xPogK.png" group-title="Variado", Canal 2 Jujuy | AR
-http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
+https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEjHUot.png" group-title="Variado", El Cuatro Jujuy HD | AR
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zEjHUot.png" group-title="Variado", El Cuatro Jujuy | AR
-https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w2067338248_b121000.m3u8
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q6BQ5YO.png" group-title="Variado", Canal 7 Jujuy | AR
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w878287635_b1327104.m3u8
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI7SALTA.png" group-title="Variado", Canal 7 Salta | AR
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV89.png" group-title="Variado", Canal 7 Mendoza | AR
