@@ -1288,7 +1288,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f661f68f9200078
 - DEPORTES -
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TYC.png" group-title="Deportes", TyC Sports | AR
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+http://190.102.242.130:25461/66486141/1234/28
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TYC.png" group-title="Deportes", TyC Sports 2 | AR
 https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvCzSJQ.png" group-title="Deportes", Telefe Deportes | AR
