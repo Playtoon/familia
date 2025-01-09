@@ -512,6 +512,12 @@ http://190.102.242.130:25461/66486141/1234/55
 http://190.102.242.130:25461/66486141/1234/58
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1280px-DreamWorks_Channel_Logo.svg.png" group-title="Infantiles", DreamWorks Channel
 http://190.102.242.130:25461/66486141/1234/107
+#EXTINF:-1 tvg-logo="https://cncity.xyz/new.png" group-title="Infantiles", CN City
+https://envivo.cncity.live/hls/cncity.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Bigchannel.png" group-title="Infantiles", Big TV
+https://xhateaec.com:8800/hls/Bigtv/Bigtv/2e7c0930c48d249969862b4c76ab97c8/index.m3u8
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kanade.png" group-title="Infantiles", Kanade
+https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="Infantiles", Animestation TV | AR
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="Infantiles", ZTV Anime | CL
