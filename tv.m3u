@@ -517,7 +517,7 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-logo="https://cncity.xyz/new.png" group-title="Infantiles", CN City
 https://envivo.cncity.live/hls/cncity.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Bigchannel.png" group-title="Infantiles", Big TV
-https://xhateaec.com:8800/hls/Bigtv/Bigtv/2e7c0930c48d249969862b4c76ab97c8/index.m3u8
+https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kanade.png" group-title="Infantiles", Kanade
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="Infantiles", Animestation TV | AR
