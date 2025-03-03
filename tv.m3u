@@ -549,7 +549,7 @@ https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Infantiles", Latino Kids TV | UY
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8JSxV1m.png" group-title="Infantiles", Dreiko TV | PA
-https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-logo="https://conectatetvpr.com/wp-content/uploads/2019/12/FOTO-ACS-N.jpg" group-title="Infantiles", ACS Network TV | US
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1619_Opinionsur_Ninos.png" group-title="Variado", Opinionsur Niños | CL
