@@ -841,7 +841,7 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1393_La_Melinkana_TV.png" group-title="Cine y Series", La Melinkana TV | CL
 https://v1.tustreaming.cl/melinkana/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1615_Bombi_TV.png" group-title="Cine y Series", BombiTV | CL
-https://s3.tvdatta.com:3380/live/bombitvlive.m3u8?WebM3UCL
+https://tv.streaming-chile.com:1936/bombitv/bombitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1607_Santa_Cruz_HD.png" group-title="Cine y Series", Santa Cruz TV | CL
 https://stmv5.voxtvhd.com.br/davidsantacruz/davidsantacruz/chunklist_w1661747899.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/22gMX1eClzUXKX6qDaSvjXpBOutwXzL2eMgqi9JY.png" group-title="Cine y Series", GRJNGO
