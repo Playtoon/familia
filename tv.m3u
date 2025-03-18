@@ -730,6 +730,8 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Cine y Series", NEO TV Digital | AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png" group-title="Cine y Series", Vibra TV Peliculas | CL
+https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1435__Cine.png" group-title="Cine y Series", +Cine | CL
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1435__Cine.png" group-title="Cine y Series", +Cine Classic | CL
@@ -805,7 +807,7 @@ https://vdochile.com:3317/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1618_Opinionsur_Series.png" group-title="Variado", Opinionsur Series | CL
 https://fl1002.bozztv.com/ssh101/opinionsurs/tracks-v1a1/mono.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1087_Opinionsur_TV.png" group-title="Variado", Opinionsur Cine | CL
-https://fl1002.bozztv.com/ssh101/opinionsur/tracks-v1a1/mono.m3u8?WebM3UCL
+https://5790d294af2dc.streamlock.net/opinionsur/opinionsur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://panctv.com.ar/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png" group-title="Cine y Series", PANC TV | AR
 https://panel.host-live.com:19360/20004/20004.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Ft5Jyf_b1IM/XrYPmPh3AMI/AAAAAAAA0io/wrYd6ohXsH4M8Jd-uReILaQxfvcXnQF2wCK8BGAsYHg/s0/2020-05-08.png" group-title="Cine y Series", Metro TV | AR
