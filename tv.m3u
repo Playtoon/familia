@@ -863,7 +863,7 @@ https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2vz3nRG/image.png" group-title="Cine y Series", STV | CR
 https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="Cine y Series", Teleclásica
-https://cageu.bozztv.com/ssh101/ssh101/teleclasik/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png" group-title="Cine y Series", Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2023/07/Logo-imagen-Universal-Horizontal.png" group-title="Cine y Series", IU TV | DO
