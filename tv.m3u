@@ -529,7 +529,7 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="Infantiles", ZTV Anime | CL
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png" group-title="Infantiles", Ani Retro | CL
-https://tv.streaming-chile.com:19360/8068/8068.m3u8?WebM3UCL
+https://tv.arkeo.cl:19360/8000/8000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="Infantiles", Anime Vision
 https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="Infantiles", Anime Vision Classics
@@ -741,7 +741,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png" group-title="Cine y Series", Vibra TV Peliculas | CL
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1435__Cine.png" group-title="Cine y Series", +Cine | CL
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
+https://tv.arkeo.cl:19360/8128/8128.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1435__Cine.png" group-title="Cine y Series", +Cine Classic | CL
 https://fl1004.bozztv.com/ssh101/mascineclasico/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1235_Origen_TV.png" group-title="Cine y Series", Origen TV | CL
@@ -805,7 +805,7 @@ http://190.102.242.130:25461/66486141/1234/70
 #EXTINF:-1 tvg-logo="https://www.europaeuropa.tv/theme/assets/ee-logo.png" group-title="Cine y Series", Europa Europa
 http://190.102.242.130:25461/66486141/1234/108
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="Cine y Series", Moni Tv
-https://tv.streaming-chile.com:19360/8134/8134.m3u8
+https://tv.arkeo.cl:19360/8134/8134.m3u8
 #EXTINF:-1 tvg-logo="https://xhateaec.com/upload/photos/2023/12/7WFgjPp47KJGFxe1Z2sO_03_560771bb5ebc6802f405d5bfa40fcc6b_avatar.png?cache=0" group-title="Cine y Series", Canal Rex
 http://190.102.242.130:25461/66486141/1234/127
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1339_Senal_21.png" group-title="Cine y Series", Señal 21 | CL
