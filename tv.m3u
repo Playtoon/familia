@@ -530,6 +530,8 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png" group-title="Infantiles", Ani Retro | CL
 https://tv.arkeo.cl:19360/8000/8000.m3u8
+#EXTINF:-1 tvg-logo="https://1drv.ms/i/c/90dbf23b0a7787dc/EcYGx6FABlFKp7VqnjTC8ioBlJbr1ZXLpeSThnTaWlSokQ?e=9ajlbt" group-title="Infantiles", Zyoon TV | UY
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="Infantiles", Anime Vision
 https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="Infantiles", Anime Vision Classics
