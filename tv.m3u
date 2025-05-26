@@ -737,7 +737,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/0d8x32riHsAzwJW7ZIiaZn9NKLM6a8JDSIWs2oFl.jpg" group-title="Cine y Series", Coco TV
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-GENTV.png" group-title="Cine y Series", GEN TV | AR
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/gentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Cine y Series", NEO TV Digital | AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png" group-title="Cine y Series", Vibra TV Peliculas | CL
