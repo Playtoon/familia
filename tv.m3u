@@ -740,16 +740,8 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Cine y Series", NEO TV Digital | AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png" group-title="Cine y Series", Vibra TV Peliculas | CL
-https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1435__Cine.png" group-title="Cine y Series", +Cine | CL
-https://tv.arkeo.cl:19360/8128/8128.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1435__Cine.png" group-title="Cine y Series", +Cine Classic | CL
-https://fl1004.bozztv.com/ssh101/mascineclasico/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/1235_Origen_TV.png" group-title="Cine y Series", Origen TV | CL
-https://tv.streaming-chile.com:8081/origentvhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png" group-title="Cine y Series", Terror TV | CL
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/featuredImage_1761061283781.jpg" group-title="Cine y Series", Cine Navidad
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dd6ed41526c77000941411c/3321280/playlist.m3u8?sid=10078393-d6de-11f0-9fdc-c2b40e8897ec&deviceId=3ce2e2b1-5d70-4b3b-8125-8797352e9030&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImVkNTRmNjYxLTlkNTItNDdkYi04ODgzLTA3ZTI0NjdhNTE2ZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxMDA3ODM5My1kNmRlLTExZjAtOWZkYy1jMmI0MGU4ODk3ZWMiLCJjbGllbnRJUCI6IjE4Ni4xODIuODguMTc3IiwiY2l0eSI6IlNhbiBTYWx2YWRvciBEZSBKdWp1eSIsInBvc3RhbENvZGUiOiJ5NDYwNyBlYWIiLCJjb3VudHJ5IjoiQVIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMjQuMjE5OTk5MzEzMzU0NDkyLCJkZXZpY2VMb24iOi02NS4yNjk5OTY2NDMwNjY0LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxNDMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjE4LjAtMzIyOTZkNDdjOTg4Mjc1NGUzNjBmMWIyOGEzMzAyN2M1NGNiYWQxNiIsImNsaWVudElEIjoiM2NlMmUyYjEtNWQ3MC00YjNiLTgxMjUtODc5NzM1MmU5MDMwIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvQXJnZW50aW5hL0p1anV5Iiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifSwic3RpdGNoZXJIbHNOZ1ZsbCI6eyJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJIbHNOZ1ZvZCI6eyJlbmFibGVkIjp0cnVlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiM2NlMmUyYjEtNWQ3MC00YjNiLTgxMjUtODc5NzM1MmU5MDMwIiwiZndWY0lEMkNvcHBhIjoiM2NlMmUyYjEtNWQ3MC00YjNiLTgxMjUtODc5NzM1MmU5MDMwIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIzY2UyZTJiMS01ZDcwLTRiM2ItODEyNS04Nzk3MzUyZTkwMzAiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDEzLDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIwLDEwMDIxLDEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TTJObE1tVXlZakV0TldRM01DMDBZak5pTFRneE1qVXRPRGM1TnpNMU1tVTVNRE13IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc2NTU3NzM2OCwiaWF0IjoxNzY1NDkwOTY4LCJqdGkiOiI2YWM3MGI3Yy1mMjRhLTQ2OGItYjViZi1lOWQ5MTUxYjkxMmYifQ.oSGZI4DVSuB6HpTKE19LFXOkbrPC2Or3_XgCTH8OVHw&CMCD=mtp%3D76700%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22bb396bde-4849-423f-8127-b0faead0e30b%22
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png" group-title="Cine y Series", Amc
 http://190.102.242.130:25461/66486141/1234/29
 #EXTINF:-1 tvg-logo="https://prodimage.images-bn.com/mimages/0000000000000_p0_v0_s600x595.jpg" group-title="Cine y Series", B&N
@@ -1630,6 +1622,7 @@ http://media-ice.musicradio.com/LBCUKMP3Low
 http://media-ice.musicradio.com/LBC1152MP3Low
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Ov6LR8j.png" group-title="Radios", Vatican News | VA
 https://rvl.azureedge.net/channel5.mp3
+
 
 
 
